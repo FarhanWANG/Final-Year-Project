@@ -1,2 +1,2 @@
-# Investments in Cyptocurrency
+# Investments in Cryptocurrency
 
