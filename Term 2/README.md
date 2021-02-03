@@ -1,4 +1,5 @@
 Things to do: 
+
 0. Convert raw CC data into csv file
 1. Check whether we can find the past marketcap
 2. Create 2 top10 CC(one with BTC, one without BTC)
