@@ -6,5 +6,5 @@ Things to do:
 3. Update portfolio weekly
 4. Test the accuracy of the expected return calculated from CAPM regression with the actual return
 5. Calculate Alpha of the strategy (Step4&5 are to test whether CAPM also holds in the CC market) 
-6. Add SMB factor
-7. Include Alpha, Beta, Information Ratio, Max drawdown, Calmar ratio, VaR, Omega ratio, Sortino ratio, and Tail ratio for portfolio evaluation
+6. Include Alpha, Beta, Information Ratio, Max drawdown, Calmar ratio, VaR, Omega ratio, Sortino ratio, and Tail ratio for portfolio evaluation
+7. Add some other factors like SMB
