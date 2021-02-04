@@ -1,6 +1,6 @@
 Things to do: 
 
-0. Convert raw CC data into csv file
+0. Convert raw CC data into csv file (Using yahoo API to fectch CC data each time COSTS MUCH TIME)
 1. Check whether we can find the past marketcap
 2. Create 2 top10 CC(one with BTC, one without BTC)
 3. Update portfolio weekly
