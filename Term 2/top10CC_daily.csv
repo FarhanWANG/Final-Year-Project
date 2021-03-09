@@ -1,0 +1,1458 @@
+date,top10_Liquid,top10_Market
+2017-01-01,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'ETC ', 'ZEC ', 'MAID ', 'XRP ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'REP', 'MAID', 'STEEM']"
+2017-01-02,"['BTC ', 'LTC ', 'ETH ', 'XMR ', 'DASH ', 'ETC ', 'XRP ', 'MAID ', 'ZEC ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'REP', 'MAID', 'STEEM']"
+2017-01-03,"['BTC ', 'ETH ', 'XMR ', 'LTC ', 'ETC ', 'DASH ', 'ZEC ', 'XRP ', 'REP ', 'MAID ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'REP', 'MAID', 'STEEM']"
+2017-01-04,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'ETC ', 'DASH ', 'ZEC ', 'XRP ', 'BTS ', 'MAID ']","['BTC', 'ETH', 'XMR', 'XRP', 'LTC', 'ETC', 'DASH', 'REP', 'MAID', 'STEEM']"
+2017-01-05,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'ETC ', 'XRP ', 'ZEC ', 'DASH ', 'DOGE ', 'REP ']","['BTC', 'ETH', 'XRP', 'XMR', 'LTC', 'ETC', 'DASH', 'REP', 'MAID', 'STEEM']"
+2017-01-06,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'ETC ', 'DASH ', 'XRP ', 'ZEC ', 'MAID ', 'REP ']","['BTC', 'ETH', 'XRP', 'XMR', 'LTC', 'ETC', 'DASH', 'REP', 'MAID', 'STEEM']"
+2017-01-07,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'ETC ', 'DASH ', 'XRP ', 'ZEC ', 'REP ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'REP', 'MAID', 'STEEM']"
+2017-01-08,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'ETC ', 'ZEC ', 'XRP ', 'SC ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'REP', 'MAID', 'STEEM']"
+2017-01-09,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'ETC ', 'XRP ', 'ZEC ', 'REP ', 'SC ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'REP', 'MAID', 'STEEM']"
+2017-01-10,"['BTC ', 'LTC ', 'ETH ', 'XMR ', 'XRP ', 'DASH ', 'ETC ', 'ZEC ', 'DOGE ', 'SC ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'REP', 'MAID', 'STEEM']"
+2017-01-11,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'XRP ', 'ETC ', 'DASH ', 'ZEC ', 'MAID ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'REP', 'MAID', 'STEEM']"
+2017-01-12,"['BTC ', 'ETH ', 'LTC ', 'DASH ', 'XRP ', 'XMR ', 'ETC ', 'ZEC ', 'DOGE ', 'XLM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'REP', 'MAID', 'STEEM']"
+2017-01-13,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'XMR ', 'XRP ', 'ETC ', 'ZEC ', 'REP ', 'MAID ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'REP', 'MAID', 'XEM']"
+2017-01-14,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'XMR ', 'XRP ', 'ZEC ', 'ETC ', 'MAID ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'REP', 'MAID', 'XEM']"
+2017-01-15,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'MAID ', 'ZEC ', 'XRP ', 'ETC ', 'SC ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'XEM']"
+2017-01-16,"['BTC ', 'ETH ', 'LTC ', 'DASH ', 'XMR ', 'MAID ', 'XRP ', 'ZEC ', 'STEEM ', 'ETC ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'STEEM']"
+2017-01-17,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'XRP ', 'DASH ', 'ETC ', 'ZEC ', 'MAID ', 'STEEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'STEEM']"
+2017-01-18,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'XRP ', 'ETC ', 'ZEC ', 'STEEM ', 'MAID ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'STEEM']"
+2017-01-19,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'XRP ', 'ETC ', 'ZEC ', 'MAID ', 'SC ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'REP', 'STEEM']"
+2017-01-20,"['BTC ', 'ETH ', 'ETC ', 'XMR ', 'LTC ', 'DASH ', 'ZEC ', 'XRP ', 'MAID ', 'SC ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'STEEM']"
+2017-01-21,"['BTC ', 'ETH ', 'ETC ', 'XMR ', 'LTC ', 'DASH ', 'ZEC ', 'XRP ', 'MAID ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'STEEM']"
+2017-01-22,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'ETC ', 'ZEC ', 'XRP ', 'MAID ', 'SC ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'STEEM']"
+2017-01-23,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'ETC ', 'ZEC ', 'XRP ', 'ARDR ', 'MAID ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'STEEM']"
+2017-01-24,"['BTC ', 'ETH ', 'XMR ', 'DASH ', 'LTC ', 'ETC ', 'ZEC ', 'XRP ', 'ARDR ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'XEM']"
+2017-01-25,"['BTC ', 'LTC ', 'ETH ', 'XMR ', 'DASH ', 'ETC ', 'ZEC ', 'ARDR ', 'XRP ', 'MAID ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'XEM']"
+2017-01-26,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'XRP ', 'DASH ', 'ZEC ', 'MAID ', 'ETC ', 'DCR ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'XEM', 'REP']"
+2017-01-27,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'ETC ', 'DASH ', 'ZEC ', 'XRP ', 'XEM ', 'LSK ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'XEM']"
+2017-01-28,"['BTC ', 'XMR ', 'ETH ', 'LTC ', 'DASH ', 'ZEC ', 'ETC ', 'REP ', 'XRP ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'XEM']"
+2017-01-29,"['BTC ', 'ETH ', 'XMR ', 'LTC ', 'DASH ', 'MAID ', 'ZEC ', 'XRP ', 'DCR ', 'ETC ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'XEM']"
+2017-01-30,"['BTC ', 'LTC ', 'ETH ', 'XMR ', 'DASH ', 'MAID ', 'ZEC ', 'ETC ', 'XRP ', 'LSK ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'XEM', 'REP']"
+2017-01-31,"['BTC ', 'LTC ', 'ETH ', 'XMR ', 'DASH ', 'ETC ', 'ZEC ', 'MAID ', 'XRP ', 'DCR ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'REP', 'XEM']"
+2017-02-01,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'XRP ', 'MAID ', 'ETC ', 'ZEC ', 'DCR ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'XEM', 'REP']"
+2017-02-02,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'MAID ', 'ZEC ', 'XRP ', 'ETC ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'XEM', 'REP']"
+2017-02-03,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'ETC ', 'ZEC ', 'MAID ', 'XEM ', 'XRP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-04,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'ETC ', 'DCR ', 'ZEC ', 'XEM ', 'MAID ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-05,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'ETC ', 'ZEC ', 'DCR ', 'SYS ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'XEM', 'REP']"
+2017-02-06,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XMR ', 'DASH ', 'ZEC ', 'SYS ', 'XRP ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'XEM', 'REP']"
+2017-02-07,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'ETC ', 'MAID ', 'ZEC ', 'XRP ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'XEM', 'REP']"
+2017-02-08,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'ETC ', 'ZEC ', 'XRP ', 'REP ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'ETC', 'DASH', 'MAID', 'XEM', 'REP']"
+2017-02-09,"['BTC ', 'LTC ', 'ETH ', 'ETC ', 'XMR ', 'DASH ', 'XRP ', 'ZEC ', 'MAID ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-10,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'ETC ', 'DASH ', 'XRP ', 'MAID ', 'ZEC ', 'BTS ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-11,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'ETC ', 'DASH ', 'MAID ', 'ZEC ', 'XRP ', 'ARDR ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-12,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'ETC ', 'DASH ', 'MAID ', 'ZEC ', 'XEM ', 'XRP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-13,"['BTC ', 'ETH ', 'LTC ', 'MAID ', 'XMR ', 'DASH ', 'ETC ', 'ZEC ', 'XRP ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-14,"['BTC ', 'ETH ', 'XMR ', 'LTC ', 'MAID ', 'DASH ', 'ETC ', 'ZEC ', 'XRP ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-15,"['BTC ', 'ETH ', 'XMR ', 'DASH ', 'LTC ', 'MAID ', 'ETC ', 'ZEC ', 'XRP ', 'REP ']","['BTC', 'ETH', 'XRP', 'XMR', 'LTC', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-16,"['BTC ', 'ETH ', 'LTC ', 'XMR ', 'DASH ', 'XRP ', 'ETC ', 'MAID ', 'ZEC ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-17,"['BTC ', 'ETH ', 'LTC ', 'DASH ', 'MAID ', 'XMR ', 'XRP ', 'ETC ', 'ZEC ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-18,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'XMR ', 'XRP ', 'ETC ', 'MAID ', 'ZEC ', 'STEEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-19,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'XMR ', 'XRP ', 'ETC ', 'MAID ', 'ZEC ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-20,"['BTC ', 'ETH ', 'XMR ', 'DASH ', 'LTC ', 'XRP ', 'ETC ', 'ZEC ', 'MAID ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-21,"['BTC ', 'ETH ', 'XMR ', 'LTC ', 'DASH ', 'MAID ', 'ETC ', 'ZEC ', 'XRP ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-22,"['BTC ', 'ETH ', 'LTC ', 'DASH ', 'XMR ', 'ZEC ', 'ETC ', 'MAID ', 'XRP ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-23,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'XMR ', 'ZEC ', 'ETC ', 'XRP ', 'MAID ', 'STEEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XMR', 'DASH', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-24,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'LTC ', 'ETC ', 'XRP ', 'ZEC ', 'MAID ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XMR', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-25,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'XMR ', 'ETC ', 'XRP ', 'ZEC ', 'MAID ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XMR', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-26,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'XMR ', 'ETC ', 'ZEC ', 'MAID ', 'XRP ', 'XLM ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-27,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'ZEC ', 'XMR ', 'ETC ', 'XRP ', 'MAID ', 'MLN ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-02-28,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'LTC ', 'ZEC ', 'XRP ', 'ETC ', 'MLN ', 'MAID ']","['BTC', 'ETH', 'DASH', 'XRP', 'LTC', 'XMR', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-03-01,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'ETC ', 'LTC ', 'ZEC ', 'XRP ', 'MLN ', 'MAID ']","['BTC', 'ETH', 'DASH', 'XRP', 'LTC', 'XMR', 'ETC', 'MAID', 'XEM', 'REP']"
+2017-03-02,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'XMR ', 'XRP ', 'ETC ', 'ZEC ', 'REP ', 'MAID ']","['BTC', 'ETH', 'DASH', 'XRP', 'LTC', 'XMR', 'ETC', 'XEM', 'MAID', 'REP']"
+2017-03-03,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'LTC ', 'ETC ', 'XRP ', 'ZEC ', 'XEM ', 'MAID ']","['BTC', 'ETH', 'DASH', 'XRP', 'LTC', 'XMR', 'ETC', 'XEM', 'MAID', 'REP']"
+2017-03-04,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'ETC ', 'XMR ', 'ZEC ', 'XRP ', 'MAID ', 'XEM ']","['BTC', 'ETH', 'DASH', 'XRP', 'LTC', 'XMR', 'ETC', 'XEM', 'MAID', 'REP']"
+2017-03-05,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'LTC ', 'ETC ', 'XRP ', 'ZEC ', 'XEM ', 'REP ']","['BTC', 'ETH', 'DASH', 'XRP', 'XMR', 'LTC', 'ETC', 'XEM', 'MAID', 'REP']"
+2017-03-06,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'LTC ', 'XEM ', 'ZEC ', 'ETC ', 'XRP ', 'WAVES ']","['BTC', 'ETH', 'DASH', 'XRP', 'XMR', 'LTC', 'ETC', 'XEM', 'MAID', 'REP']"
+2017-03-07,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'LTC ', 'XRP ', 'ETC ', 'ZEC ', 'DCR ', 'XEM ']","['BTC', 'ETH', 'DASH', 'XRP', 'LTC', 'XMR', 'ETC', 'XEM', 'MAID', 'REP']"
+2017-03-08,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'XMR ', 'XRP ', 'ETC ', 'ZEC ', 'XEM ', 'DCR ']","['BTC', 'ETH', 'DASH', 'XRP', 'LTC', 'XMR', 'ETC', 'XEM', 'MAID', 'REP']"
+2017-03-09,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'LTC ', 'XRP ', 'ETC ', 'ZEC ', 'XEM ', 'MAID ']","['BTC', 'ETH', 'DASH', 'XRP', 'LTC', 'XMR', 'ETC', 'XEM', 'MAID', 'REP']"
+2017-03-10,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'LTC ', 'ETC ', 'XRP ', 'ZEC ', 'MAID ', 'REP ']","['BTC', 'ETH', 'DASH', 'XRP', 'LTC', 'XMR', 'ETC', 'XEM', 'MAID', 'REP']"
+2017-03-11,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'LTC ', 'ETC ', 'XRP ', 'ZEC ', 'MAID ', 'REP ']","['BTC', 'ETH', 'DASH', 'XRP', 'XMR', 'LTC', 'ETC', 'XEM', 'MAID', 'REP']"
+2017-03-12,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'LTC ', 'ETC ', 'ZEC ', 'XRP ', 'DCR ', 'WAVES ']","['BTC', 'ETH', 'DASH', 'XMR', 'XRP', 'LTC', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-03-13,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'XMR ', 'ETC ', 'ZEC ', 'XRP ', 'REP ', 'DCR ']","['BTC', 'ETH', 'DASH', 'XMR', 'XRP', 'LTC', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-03-14,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'ETC ', 'LTC ', 'ZEC ', 'XRP ', 'REP ', 'LSK ']","['BTC', 'ETH', 'DASH', 'XMR', 'XRP', 'LTC', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-03-15,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'LTC ', 'ETC ', 'ZEC ', 'REP ', 'XRP ', 'DGD ']","['BTC', 'ETH', 'DASH', 'XMR', 'XRP', 'LTC', 'ETC', 'REP', 'XEM', 'MAID']"
+2017-03-16,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'ETC ', 'LTC ', 'REP ', 'ZEC ', 'XRP ', 'MAID ']","['BTC', 'ETH', 'DASH', 'XMR', 'XRP', 'LTC', 'ETC', 'REP', 'XEM', 'MAID']"
+2017-03-17,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'ETC ', 'LTC ', 'ZEC ', 'XRP ', 'REP ', 'MLN ']","['BTC', 'ETH', 'DASH', 'XMR', 'XRP', 'LTC', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-03-18,"['BTC ', 'ETH ', 'DASH ', 'ZEC ', 'XMR ', 'LTC ', 'ETC ', 'XRP ', 'STEEM ', 'REP ']","['BTC', 'ETH', 'DASH', 'XMR', 'XRP', 'LTC', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-03-19,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'ZEC ', 'ETC ', 'LTC ', 'XRP ', 'XEM ', 'STEEM ']","['BTC', 'ETH', 'DASH', 'XMR', 'XRP', 'LTC', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-03-20,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'ZEC ', 'ETC ', 'LTC ', 'XRP ', 'XEM ', 'PIVX ']","['BTC', 'ETH', 'DASH', 'XMR', 'XRP', 'LTC', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-03-21,"['BTC ', 'ETH ', 'DASH ', 'ETC ', 'XMR ', 'ZEC ', 'LSK ', 'LTC ', 'XRP ', 'SC ']","['BTC', 'ETH', 'DASH', 'XMR', 'XRP', 'ETC', 'LTC', 'XEM', 'REP', 'MAID']"
+2017-03-22,"['BTC ', 'ETH ', 'DASH ', 'ETC ', 'XMR ', 'LTC ', 'XRP ', 'ZEC ', 'PIVX ', 'MAID ']","['BTC', 'ETH', 'DASH', 'XMR', 'XRP', 'ETC', 'LTC', 'XEM', 'REP', 'MAID']"
+2017-03-23,"['BTC ', 'ETH ', 'DASH ', 'XRP ', 'XMR ', 'ETC ', 'PIVX ', 'LTC ', 'ZEC ', 'DCR ']","['BTC', 'ETH', 'DASH', 'XRP', 'XMR', 'ETC', 'LTC', 'XEM', 'REP', 'MAID']"
+2017-03-24,"['BTC ', 'ETH ', 'DASH ', 'XRP ', 'XMR ', 'LTC ', 'ETC ', 'ZEC ', 'PIVX ', 'XLM ']","['BTC', 'ETH', 'DASH', 'XRP', 'XMR', 'ETC', 'LTC', 'XEM', 'REP', 'MAID']"
+2017-03-25,"['BTC ', 'ETH ', 'DASH ', 'XRP ', 'XMR ', 'LTC ', 'ETC ', 'ZEC ', 'PIVX ', 'REP ']","['BTC', 'ETH', 'DASH', 'XRP', 'XMR', 'ETC', 'LTC', 'XEM', 'REP', 'MAID']"
+2017-03-26,"['BTC ', 'BTC ', 'ETH ', 'ETH ', 'DASH ', 'DASH ', 'DCR ', 'XMR ', 'XMR ', 'ETC ']","['BTC', 'ETH', 'DASH', 'XRP', 'XMR', 'ETC', 'LTC', 'XEM', 'REP', 'MAID']"
+2017-03-27,"['BTC ', 'ETH ', 'DASH ', 'XMR ', 'ZEC ', 'ETC ', 'BCN ', 'LTC ', 'XRP ', 'DCR ']","['BTC', 'ETH', 'DASH', 'XRP', 'XMR', 'LTC', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-03-28,"['BTC ', 'ETH ', 'DASH ', 'LTC ', 'XMR ', 'ETC ', 'XRP ', 'ZEC ', 'BTS ', 'DCR ']","['BTC', 'ETH', 'DASH', 'XRP', 'XMR', 'LTC', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-03-29,"['BTC ', 'LTC ', 'ETH ', 'DASH ', 'XRP ', 'ETC ', 'XMR ', 'ZEC ', 'XLM ', 'DOGE ']","['BTC', 'ETH', 'DASH', 'XRP', 'XMR', 'LTC', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-03-30,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'DASH ', 'ETC ', 'XMR ', 'ZEC ', 'REP ', 'XLM ']","['BTC', 'ETH', 'DASH', 'XRP', 'LTC', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-03-31,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'DASH ', 'XMR ', 'ETC ', 'ZEC ', 'XEM ', 'REP ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-01,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'DASH ', 'ETC ', 'XLM ', 'XMR ', 'BTS ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-02,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'DASH ', 'ETC ', 'DOGE ', 'XLM ', 'XMR ', 'MAID ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-03,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'DASH ', 'XMR ', 'ETC ', 'ZEC ', 'MAID ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-04,"['BTC ', 'LTC ', 'ETH ', 'XRP ', 'DASH ', 'XMR ', 'ETC ', 'ZEC ', 'XLM ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-05,"['BTC ', 'LTC ', 'ETH ', 'XRP ', 'DASH ', 'XMR ', 'ETC ', 'ZEC ', 'DOGE ', 'XLM ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-06,"['BTC ', 'LTC ', 'ETH ', 'XRP ', 'DASH ', 'XMR ', 'ETC ', 'ZEC ', 'DOGE ', 'XLM ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-07,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'DASH ', 'ETC ', 'XMR ', 'ZEC ', 'DCR ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-08,"['BTC ', 'LTC ', 'ETH ', 'XRP ', 'ZEC ', 'DASH ', 'ETC ', 'XMR ', 'DCR ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-09,"['BTC ', 'LTC ', 'ETH ', 'DASH ', 'XRP ', 'XMR ', 'ETC ', 'ZEC ', 'MAID ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-10,"['BTC ', 'LTC ', 'ETH ', 'DASH ', 'XRP ', 'XMR ', 'SC ', 'ZEC ', 'ETC ', 'MAID ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-11,"['BTC ', 'LTC ', 'ETH ', 'DASH ', 'XRP ', 'XMR ', 'ETC ', 'ZEC ', 'PIVX ', 'SC ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-12,"['BTC ', 'ETH ', 'LTC ', 'DASH ', 'XRP ', 'XMR ', 'ETC ', 'PIVX ', 'ZEC ', 'MAID ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-13,"['BTC ', 'ETH ', 'LTC ', 'DASH ', 'XMR ', 'XRP ', 'ETC ', 'ZEC ', 'XLM ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-14,"['BTC ', 'ETH ', 'LTC ', 'DASH ', 'ZEC ', 'XRP ', 'XMR ', 'ETC ', 'XEM ', 'PIVX ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XMR', 'ETC', 'XEM', 'REP', 'MAID']"
+2017-04-15,"['BTC ', 'ETH ', 'LTC ', 'DASH ', 'XRP ', 'XMR ', 'ZEC ', 'ETC ', 'ARK ', 'PIVX ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XMR', 'ETC', 'XEM', 'REP', 'PIVX']"
+2017-04-16,"['BTC ', 'LTC ', 'ETH ', 'DASH ', 'XRP ', 'XMR ', 'ETC ', 'ZEC ', 'ARK ', 'STEEM ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'XEM', 'REP', 'PIVX']"
+2017-04-17,"['BTC ', 'LTC ', 'ETH ', 'DASH ', 'ETC ', 'XRP ', 'DGB ', 'XMR ', 'ZEC ', 'XEM ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'XEM', 'REP', 'PIVX']"
+2017-04-18,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'XEM ', 'XMR ', 'ZEC ', 'DCR ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XMR', 'ETC', 'XEM', 'REP', 'PIVX']"
+2017-04-19,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'XMR ', 'ZEC ', 'XEM ', 'BTS ']","['BTC', 'ETH', 'XRP', 'DASH', 'LTC', 'XEM', 'XMR', 'ETC', 'REP', 'MAID']"
+2017-04-20,"['BTC ', 'LTC ', 'ETH ', 'XRP ', 'ETC ', 'DASH ', 'XMR ', 'ZEC ', 'XEM ', 'DGB ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XMR', 'XEM', 'REP', 'MAID']"
+2017-04-21,"['BTC ', 'LTC ', 'ETH ', 'DASH ', 'XRP ', 'ETC ', 'XMR ', 'ZEC ', 'XEM ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XEM', 'XMR', 'ETC', 'REP', 'MAID']"
+2017-04-22,"['BTC ', 'LTC ', 'ETH ', 'ETC ', 'DASH ', 'XRP ', 'XMR ', 'DOGE ', 'ZEC ', 'DCR ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XMR', 'XEM', 'REP', 'MAID']"
+2017-04-23,"['BTC ', 'LTC ', 'ETH ', 'ETC ', 'DASH ', 'REP ', 'XRP ', 'XMR ', 'ZEC ', 'PIVX ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XEM', 'XMR', 'REP', 'MAID']"
+2017-04-24,"['BTC ', 'LTC ', 'ETH ', 'ETC ', 'XRP ', 'DASH ', 'XEM ', 'XMR ', 'ZEC ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XEM', 'XMR', 'REP', 'MAID']"
+2017-04-25,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XEM ', 'XRP ', 'DASH ', 'ZEC ', 'XMR ', 'LSK ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XEM', 'XMR', 'REP', 'MAID']"
+2017-04-26,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XEM ', 'DASH ', 'XRP ', 'XMR ', 'ZEC ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XEM', 'ETC', 'XMR', 'REP', 'MAID']"
+2017-04-27,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'ETC ', 'DASH ', 'XMR ', 'ZEC ', 'XEM ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XEM', 'XMR', 'REP', 'MAID']"
+2017-04-28,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'DASH ', 'ETC ', 'ZEC ', 'XMR ', 'DOGE ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XEM', 'XMR', 'REP', 'MAID']"
+2017-04-29,"['BTC ', 'ETH ', 'ETC ', 'LTC ', 'XRP ', 'DASH ', 'ZEC ', 'XMR ', 'XEM ', 'REP ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XEM', 'XMR', 'REP', 'MAID']"
+2017-04-30,"['BTC ', 'ETH ', 'ETC ', 'LTC ', 'XRP ', 'DASH ', 'ZEC ', 'XMR ', 'GNO ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XEM', 'XMR', 'REP', 'MAID']"
+2017-05-01,"['BTC ', 'ETH ', 'ETC ', 'LTC ', 'XRP ', 'GNO ', 'DASH ', 'ZEC ', 'XMR ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XEM', 'XMR', 'REP', 'MAID']"
+2017-05-02,"['BTC ', 'LTC ', 'ETH ', 'XRP ', 'ETC ', 'DASH ', 'XMR ', 'GNO ', 'ZEC ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XEM', 'XMR', 'REP', 'MAID']"
+2017-05-03,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'XMR ', 'XEM ', 'ZEC ', 'XLM ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XEM', 'XMR', 'REP', 'MAID']"
+2017-05-04,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'XLM ', 'ETC ', 'DASH ', 'XMR ', 'XEM ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'XMR', 'REP', 'ZEC']"
+2017-05-05,"['BTC ', 'ETH ', 'LTC ', 'XLM ', 'XRP ', 'ETC ', 'DASH ', 'DOGE ', 'XMR ', 'BTS ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XEM', 'XMR', 'REP', 'ZEC']"
+2017-05-06,"['BTC ', 'XLM ', 'XRP ', 'LTC ', 'ETH ', 'ETC ', 'DOGE ', 'XMR ', 'DASH ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'ETC', 'XEM', 'XMR', 'XLM', 'REP']"
+2017-05-07,"['BTC ', 'XRP ', 'XLM ', 'ETH ', 'LTC ', 'XEM ', 'ETC ', 'DASH ', 'BTS ', 'XMR ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'DASH', 'ETC', 'XMR', 'XLM', 'REP']"
+2017-05-08,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'XLM ', 'ETC ', 'DASH ', 'STEEM ', 'XMR ', 'XEM ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'DASH', 'ETC', 'XMR', 'XLM', 'STEEM']"
+2017-05-09,"['BTC ', 'LTC ', 'ETH ', 'XRP ', 'XLM ', 'ETC ', 'DASH ', 'XMR ', 'XEM ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'DASH', 'ETC', 'XMR', 'XLM', 'REP']"
+2017-05-10,"['BTC ', 'LTC ', 'ETH ', 'XRP ', 'XLM ', 'ETC ', 'DASH ', 'XMR ', 'ZEC ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'DASH', 'ETC', 'XMR', 'XLM', 'STEEM']"
+2017-05-11,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'XLM ', 'ETC ', 'DASH ', 'XEM ', 'XMR ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'DASH', 'ETC', 'XMR', 'XLM', 'REP']"
+2017-05-12,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'XLM ', 'DASH ', 'ETC ', 'XEM ', 'XMR ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'DASH', 'ETC', 'XMR', 'XLM', 'REP']"
+2017-05-13,"['BTC ', 'XRP ', 'LTC ', 'ETH ', 'ETC ', 'XLM ', 'DASH ', 'XMR ', 'XEM ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'DASH', 'ETC', 'XMR', 'XLM', 'REP']"
+2017-05-14,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'XLM ', 'ETC ', 'DASH ', 'STEEM ', 'XEM ', 'XMR ']","['BTC', 'XRP', 'ETH', 'LTC', 'XEM', 'DASH', 'ETC', 'XMR', 'XLM', 'REP']"
+2017-05-15,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'XLM ', 'DGB ', 'ETC ', 'XEM ', 'DASH ', 'BTS ']","['BTC', 'XRP', 'ETH', 'LTC', 'XEM', 'DASH', 'ETC', 'XLM', 'XMR', 'STEEM']"
+2017-05-16,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'XLM ', 'DGB ', 'BCN ', 'ETC ', 'SC ', 'DOGE ']","['BTC', 'XRP', 'ETH', 'LTC', 'XEM', 'DASH', 'ETC', 'XLM', 'XMR', 'STEEM']"
+2017-05-17,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'XEM ', 'ETC ', 'BCN ', 'XLM ', 'DOGE ', 'DGB ']","['BTC', 'XRP', 'ETH', 'LTC', 'XEM', 'DASH', 'ETC', 'XLM', 'XMR', 'BCN']"
+2017-05-18,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'ETC ', 'XEM ', 'XLM ', 'SC ', 'BTS ', 'DASH ']","['BTC', 'XRP', 'ETH', 'XEM', 'LTC', 'DASH', 'ETC', 'XLM', 'XMR', 'BCN']"
+2017-05-19,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'DGB ', 'ETC ', 'BTS ', 'SC ', 'XEM ', 'XLM ']","['BTC', 'XRP', 'ETH', 'XEM', 'LTC', 'ETC', 'DASH', 'XLM', 'XMR', 'BCN']"
+2017-05-20,"['BTC ', 'ETH ', 'XRP ', 'DOGE ', 'LTC ', 'DGB ', 'SC ', 'XLM ', 'ETC ', 'BTS ']","['BTC', 'XRP', 'ETH', 'XEM', 'LTC', 'DASH', 'ETC', 'XLM', 'XMR', 'BCN']"
+2017-05-21,"['BTC ', 'ETH ', 'XRP ', 'ETC ', 'LTC ', 'DOGE ', 'ZEC ', 'DASH ', 'XLM ', 'SC ']","['BTC', 'ETH', 'XRP', 'XEM', 'LTC', 'ETC', 'DASH', 'BCN', 'XLM', 'XMR']"
+2017-05-22,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'ZEC ', 'DOGE ', 'XMR ', 'DASH ', 'SC ']","['BTC', 'ETH', 'XRP', 'XEM', 'LTC', 'ETC', 'DASH', 'BCN', 'XMR', 'XLM']"
+2017-05-23,"['BTC ', 'ETH ', 'ETC ', 'LTC ', 'XRP ', 'XMR ', 'DOGE ', 'ZEC ', 'DASH ', 'XLM ']","['BTC', 'ETH', 'XRP', 'XEM', 'LTC', 'ETC', 'DASH', 'XMR', 'BCN', 'XLM']"
+2017-05-24,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'XMR ', 'DOGE ', 'ZEC ', 'XLM ']","['BTC', 'ETH', 'XRP', 'XEM', 'LTC', 'ETC', 'DASH', 'XMR', 'XLM', 'BCN']"
+2017-05-25,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'DOGE ', 'ZEC ', 'XLM ', 'XMR ']","['BTC', 'ETH', 'XRP', 'XEM', 'LTC', 'ETC', 'DASH', 'XMR', 'BCN', 'XLM']"
+2017-05-26,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'DOGE ', 'DASH ', 'XLM ', 'XEM ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'BCN', 'XLM']"
+2017-05-27,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'DOGE ', 'XLM ', 'XEM ', 'XMR ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'BCN', 'XLM']"
+2017-05-28,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'XMR ', 'DOGE ', 'ZEC ', 'XLM ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'BCN', 'XLM']"
+2017-05-29,"['ETH ', 'BTC ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'DGB ', 'ZEC ', 'XMR ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'BCN', 'XLM']"
+2017-05-30,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'ZEC ', 'XLM ', 'DOGE ', 'DGB ']","['BTC', 'ETH', 'XRP', 'ETC', 'XEM', 'LTC', 'DASH', 'XMR', 'BCN', 'ZEC']"
+2017-05-31,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'ETC ', 'DASH ', 'XLM ', 'DGB ', 'QTUM ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'BCN', 'ZEC']"
+2017-06-01,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'DGB ', 'ETC ', 'QTUM ', 'SC ', 'DASH ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'XLM', 'BCN']"
+2017-06-02,"['BTC ', 'ETH ', 'LTC ', 'DGB ', 'XRP ', 'SC ', 'ETC ', 'DOGE ', 'QTUM ', 'DASH ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'BCN', 'XMR', 'WAVES']"
+2017-06-03,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'DGB ', 'SC ', 'ETC ', 'DOGE ', 'BTS ', 'DASH ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'WAVES', 'BCN']"
+2017-06-04,"['BTC ', 'ETH ', 'LTC ', 'DGB ', 'XRP ', 'ETC ', 'SC ', 'DOGE ', 'ZEC ', 'DASH ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'WAVES', 'BCN']"
+2017-06-05,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'DGB ', 'DASH ', 'STEEM ', 'SC ', 'DOGE ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'WAVES', 'BCN']"
+2017-06-06,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'LSK ', 'XMR ', 'ZEC ', 'XLM ', 'DASH ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'STEEM', 'WAVES']"
+2017-06-07,"['BTC ', 'ETH ', 'LTC ', 'BTS ', 'XRP ', 'DGB ', 'XLM ', 'ETC ', 'DOGE ', 'SC ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'BCN', 'WAVES']"
+2017-06-08,"['BTC ', 'ETH ', 'BTS ', 'LTC ', 'DGB ', 'XRP ', 'ETC ', 'SC ', 'LSK ', 'DASH ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'BCN', 'WAVES']"
+2017-06-09,"['BTC ', 'ETH ', 'BTS ', 'LTC ', 'ETC ', 'XRP ', 'DGB ', 'LSK ', 'SC ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'XMR', 'BTS', 'WAVES']"
+2017-06-10,"['BTC ', 'ETH ', 'ETC ', 'LTC ', 'BTS ', 'DASH ', 'XRP ', 'DGB ', 'DOGE ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'BTS', 'XMR', 'BCN']"
+2017-06-11,"['ETH ', 'BTC ', 'LTC ', 'BTS ', 'ETC ', 'XRP ', 'DASH ', 'ZEC ', 'DGB ', 'SC ']","['BTC', 'ETH', 'XRP', 'ETC', 'XEM', 'LTC', 'DASH', 'BTS', 'XMR', 'WAVES']"
+2017-06-12,"['BTC ', 'ETH ', 'ETC ', 'BTS ', 'LTC ', 'XRP ', 'DGB ', 'DASH ', 'ZEC ', 'SC ']","['BTC', 'ETH', 'XRP', 'ETC', 'XEM', 'LTC', 'DASH', 'BTS', 'XMR', 'BCN']"
+2017-06-13,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'ETC ', 'BTS ', 'ZEC ', 'DASH ', 'DGB ', 'XEM ']","['BTC', 'ETH', 'XRP', 'ETC', 'XEM', 'MIOTA', 'LTC', 'DASH', 'BTS', 'XMR']"
+2017-06-14,"['ETH ', 'BTC ', 'LTC ', 'BTS ', 'XRP ', 'ETC ', 'ZEC ', 'DASH ', 'SC ', 'DGB ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'MIOTA', 'DASH', 'BTS', 'XMR']"
+2017-06-15,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'BTS ', 'XRP ', 'NEO ', 'ZEC ', 'DASH ', 'SC ']","['BTC', 'ETH', 'XRP', 'XEM', 'ETC', 'LTC', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-06-16,"['LTC ', 'BTC ', 'ETH ', 'ETC ', 'BTS ', 'XRP ', 'NEO ', 'DASH ', 'SC ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'ETC', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-06-17,"['BTC ', 'LTC ', 'ETH ', 'ETC ', 'XRP ', 'DASH ', 'NEO ', 'BTS ', 'SC ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-06-18,"['BTC ', 'LTC ', 'ETH ', 'NEO ', 'ETC ', 'XRP ', 'DASH ', 'BTS ', 'SC ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-06-19,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'ETC ', 'NEO ', 'BTS ', 'SC ', 'ZEC ', 'DASH ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-06-20,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'NEO ', 'BTS ', 'DASH ', 'ZEC ', 'SC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-06-21,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'NEO ', 'ETC ', 'BTS ', 'DASH ', 'ZEC ', 'SC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-06-22,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BTS ', 'ETC ', 'NEO ', 'QTUM ', 'DASH ', 'SC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-06-23,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'BTS ', 'DASH ', 'QTUM ', 'NEO ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-06-24,"['ETH ', 'BTC ', 'ETC ', 'LTC ', 'XRP ', 'BTS ', 'DASH ', 'ZEC ', 'DOGE ', 'NEO ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'MIOTA', 'DASH', 'BTS', 'XMR']"
+2017-06-25,"['ETH ', 'BTC ', 'LTC ', 'XRP ', 'ETC ', 'BTS ', 'DASH ', 'ZEC ', 'NEO ', 'SC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'MIOTA', 'DASH', 'BTS', 'XMR']"
+2017-06-26,"['ETH ', 'BTC ', 'LTC ', 'ETC ', 'XRP ', 'BTS ', 'NEO ', 'DASH ', 'ZEC ', 'QTUM ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-06-27,"['ETH ', 'BTC ', 'LTC ', 'ETC ', 'XRP ', 'BTS ', 'NEO ', 'QTUM ', 'ZEC ', 'DASH ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'XMR', 'BTS']"
+2017-06-28,"['ETH ', 'BTC ', 'LTC ', 'ETC ', 'XRP ', 'NEO ', 'BTS ', 'DASH ', 'ZEC ', 'QTUM ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-06-29,"['ETH ', 'BTC ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'NEO ', 'GNO ', 'ZEC ', 'BTS ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-06-30,"['ETH ', 'BTC ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'BTS ', 'NEO ', 'ZEC ', 'EOS ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'BTS', 'XMR']"
+2017-07-01,"['ETH ', 'BTC ', 'EOS ', 'LTC ', 'ETC ', 'BTS ', 'XRP ', 'NEO ', 'DASH ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'XMR', 'BTS']"
+2017-07-02,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BTS ', 'ETC ', 'XRP ', 'DASH ', 'SNT ', 'NEO ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'XMR', 'BTS']"
+2017-07-03,"['LTC ', 'BTC ', 'ETH ', 'EOS ', 'ETC ', 'BTS ', 'XRP ', 'DASH ', 'ZEC ', 'SNT ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'EOS', 'BTS']"
+2017-07-04,"['BTC ', 'LTC ', 'ETH ', 'EOS ', 'DASH ', 'XRP ', 'ETC ', 'BTS ', 'ZEC ', 'NEO ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'ETC', 'DASH', 'MIOTA', 'XMR', 'BTS']"
+2017-07-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'DASH ', 'ETC ', 'XRP ', 'ZEC ', 'BTS ', 'XMR ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'XMR', 'BTS']"
+2017-07-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'DASH ', 'BTS ', 'ZEC ', 'XMR ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'EOS']"
+2017-07-07,"['ETH ', 'BTC ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'BTS ', 'DASH ', 'ZEC ', 'NEO ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'BTS']"
+2017-07-08,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'DASH ', 'BTS ', 'ZEC ', 'XMR ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'BTS']"
+2017-07-09,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XRP ', 'EOS ', 'BTS ', 'DASH ', 'ZEC ', 'XMR ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'EOS']"
+2017-07-10,"['ETH ', 'BTC ', 'LTC ', 'XRP ', 'ETC ', 'EOS ', 'BTS ', 'DASH ', 'ZEC ', 'NEO ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'EOS']"
+2017-07-11,"['ETH ', 'BTC ', 'ETC ', 'LTC ', 'XRP ', 'EOS ', 'BTS ', 'MTL ', 'DASH ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'EOS']"
+2017-07-12,"['BTC ', 'ETH ', 'ETC ', 'LTC ', 'XRP ', 'EOS ', 'BTS ', 'XLM ', 'ZEC ', 'DASH ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'EOS']"
+2017-07-13,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XRP ', 'BNT ', 'EOS ', 'BTS ', 'DASH ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'EOS']"
+2017-07-14,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XRP ', 'BNT ', 'BTS ', 'EOS ', 'DASH ', 'XLM ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'EOS']"
+2017-07-15,"['ETH ', 'BTC ', 'LTC ', 'XRP ', 'ETC ', 'BTS ', 'DASH ', 'EOS ', 'XLM ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'EOS']"
+2017-07-16,"['ETH ', 'BTC ', 'LTC ', 'XRP ', 'ETC ', 'EOS ', 'BTS ', 'DASH ', 'ZEC ', 'MIOTA ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'ZEC']"
+2017-07-17,"['ETH ', 'BTC ', 'LTC ', 'XRP ', 'ETC ', 'BTS ', 'EOS ', 'DASH ', 'ZEC ', 'NEO ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'XMR', 'EOS']"
+2017-07-18,"['ETH ', 'BTC ', 'LTC ', 'ETC ', 'XRP ', 'BTS ', 'EOS ', 'QTUM ', 'DASH ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'XEM', 'DASH', 'MIOTA', 'XMR', 'VERI']"
+2017-07-19,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'BTS ', 'EOS ', 'QTUM ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'VERI']"
+2017-07-20,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XRP ', 'BTS ', 'EOS ', 'QTUM ', 'DASH ', 'NEO ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'VERI']"
+2017-07-21,"['BTC ', 'ETH ', 'BTS ', 'LTC ', 'XRP ', 'ETC ', 'EOS ', 'ZEC ', 'SNT ', 'NEO ']","['BTC', 'ETH', 'XRP', 'LTC', 'ETC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'EOS']"
+2017-07-22,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BTS ', 'SNT ', 'ETC ', 'EOS ', 'DGB ', 'DASH ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'ETC', 'DASH', 'MIOTA', 'XMR', 'BTS']"
+2017-07-23,"['BTC ', 'ETH ', 'LTC ', 'DASH ', 'XRP ', 'BTS ', 'SNT ', 'ETC ', 'EOS ', 'DGB ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'ETC', 'DASH', 'MIOTA', 'XMR', 'BTS']"
+2017-07-24,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BTS ', 'DASH ', 'ETC ', 'SNT ', 'EOS ', 'DGB ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'DASH', 'ETC', 'MIOTA', 'XMR', 'EOS']"
+2017-07-25,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BTS ', 'SNT ', 'EOS ', 'ETC ', 'DASH ', 'XMR ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XEM', 'ETC', 'MIOTA', 'XMR', 'EOS']"
+2017-07-26,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BTS ', 'XRP ', 'ETC ', 'SNT ', 'DASH ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'LTC', 'DASH', 'XEM', 'ETC', 'MIOTA', 'XMR', 'EOS']"
+2017-07-27,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BTS ', 'ETC ', 'DASH ', 'ZEC ', 'XMR ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'DASH', 'ETC', 'MIOTA', 'XMR', 'EOS']"
+2017-07-28,"['ETH ', 'BTC ', 'LTC ', 'XRP ', 'ETC ', 'EOS ', 'DASH ', 'BTS ', 'ZEC ', 'SNT ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'DASH', 'ETC', 'MIOTA', 'XMR', 'EOS']"
+2017-07-29,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'EOS ', 'DASH ', 'BTS ', 'ZEC ', 'XMR ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'DASH', 'ETC', 'MIOTA', 'XMR', 'EOS']"
+2017-07-30,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'BTS ', 'EOS ', 'DASH ', 'ZEC ', 'SNT ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'ETC', 'DASH', 'MIOTA', 'XMR', 'EOS']"
+2017-07-31,"['ETH ', 'BTC ', 'LTC ', 'XRP ', 'ETC ', 'BCH ', 'BTS ', 'EOS ', 'ZEC ', 'DASH ']","['BTC', 'ETH', 'XRP', 'LTC', 'XEM', 'DASH', 'ETC', 'MIOTA', 'XMR', 'EOS']"
+2017-08-01,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'ETC ', 'XRP ', 'BTS ', 'EOS ', 'ZEC ', 'DASH ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'XEM', 'DASH', 'ETC', 'MIOTA', 'XMR']"
+2017-08-02,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'ETC ', 'NEO ', 'XRP ', 'QTUM ', 'BTS ', 'EOS ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'XEM', 'ETC', 'DASH', 'MIOTA', 'XMR']"
+2017-08-03,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'NEO ', 'BTS ', 'ETC ', 'XRP ', 'OMG ', 'EOS ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'XEM', 'ETC', 'DASH', 'MIOTA', 'XMR']"
+2017-08-04,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'OMG ', 'NEO ', 'BTS ', 'EOS ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'XEM', 'ETC', 'DASH', 'MIOTA', 'XMR']"
+2017-08-05,"['ETH ', 'BTC ', 'LTC ', 'BCH ', 'ETC ', 'NEO ', 'XRP ', 'BTS ', 'QTUM ', 'OMG ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'XEM', 'ETC', 'DASH', 'MIOTA', 'XMR']"
+2017-08-06,"['BTC ', 'ETH ', 'BCH ', 'NEO ', 'LTC ', 'QTUM ', 'ETC ', 'XRP ', 'BTS ', 'EOS ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'XEM', 'ETC', 'DASH', 'MIOTA', 'NEO']"
+2017-08-07,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'XRP ', 'NEO ', 'ETC ', 'EOS ', 'BTS ', 'QTUM ']","['BTC', 'ETH', 'XRP', 'BCH', 'XEM', 'LTC', 'DASH', 'ETC', 'MIOTA', 'NEO']"
+2017-08-08,"['ETH ', 'BTC ', 'LTC ', 'BCH ', 'NEO ', 'XRP ', 'ETC ', 'QTUM ', 'ZEC ', 'EOS ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'XEM', 'DASH', 'MIOTA', 'ETC', 'NEO']"
+2017-08-09,"['BTC ', 'ETH ', 'NEO ', 'OMG ', 'BCH ', 'QTUM ', 'BTS ', 'LTC ', 'CVC ', 'XRP ']","['BTC', 'ETH', 'XRP', 'BCH', 'XEM', 'LTC', 'MIOTA', 'DASH', 'ETC', 'NEO']"
+2017-08-10,"['BTC ', 'ETH ', 'NEO ', 'BCH ', 'OMG ', 'LTC ', 'BTS ', 'QTUM ', 'CVC ', 'SNT ']","['BTC', 'ETH', 'XRP', 'BCH', 'XEM', 'LTC', 'NEO', 'MIOTA', 'DASH', 'ETC']"
+2017-08-11,"['BTC ', 'ETH ', 'NEO ', 'LTC ', 'BCH ', 'OMG ', 'XRP ', 'QTUM ', 'STORJ ', 'BTS ']","['BTC', 'ETH', 'XRP', 'BCH', 'XEM', 'LTC', 'MIOTA', 'NEO', 'DASH', 'ETC']"
+2017-08-12,"['BTC ', 'ETH ', 'NEO ', 'LTC ', 'OMG ', 'BCH ', 'XRP ', 'QTUM ', 'ETC ', 'BTS ']","['BTC', 'ETH', 'XRP', 'BCH', 'XEM', 'LTC', 'MIOTA', 'NEO', 'DASH', 'ETC']"
+2017-08-13,"['BTC ', 'ETH ', 'NEO ', 'BCH ', 'LTC ', 'QTUM ', 'OMG ', 'XRP ', 'BTS ', 'MIOTA ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'NEO', 'XEM', 'MIOTA', 'DASH', 'ETC']"
+2017-08-14,"['BTC ', 'ETH ', 'NEO ', 'LTC ', 'BCH ', 'XRP ', 'MIOTA ', 'OMG ', 'QTUM ', 'EOS ']","['BTC', 'ETH', 'XRP', 'BCH', 'MIOTA', 'LTC', 'NEO', 'XEM', 'DASH', 'ETC']"
+2017-08-15,"['BTC ', 'ETH ', 'OMG ', 'NEO ', 'LTC ', 'XRP ', 'BCH ', 'ETC ', 'DASH ', 'QTUM ']","['BTC', 'ETH', 'XRP', 'BCH', 'MIOTA', 'NEO', 'LTC', 'XEM', 'DASH', 'ETC']"
+2017-08-16,"['BTC ', 'ETH ', 'BCH ', 'NEO ', 'OMG ', 'LTC ', 'DASH ', 'ADX ', 'MCO ', 'BNB ']","['BTC', 'ETH', 'XRP', 'BCH', 'MIOTA', 'XEM', 'LTC', 'NEO', 'DASH', 'ETC']"
+2017-08-17,"['BCH ', 'BTC ', 'ETH ', 'LTC ', 'NEO ', 'XRP ', 'OMG ', 'ETC ', 'BNB ', 'MIOTA ']","['BTC', 'ETH', 'BCH', 'XRP', 'MIOTA', 'LTC', 'XEM', 'NEO', 'DASH', 'ETC']"
+2017-08-18,"['BCH ', 'BTC ', 'ETH ', 'DASH ', 'NEO ', 'LTC ', 'XRP ', 'OMG ', 'QTUM ', 'ZRX ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'MIOTA', 'XEM', 'NEO', 'DASH', 'ETC']"
+2017-08-19,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'DASH ', 'NEO ', 'OMG ', 'XRP ', 'BNB ', 'LSK ']","['BTC', 'ETH', 'BCH', 'XRP', 'MIOTA', 'LTC', 'XEM', 'DASH', 'NEO', 'ETC']"
+2017-08-20,"['BTC ', 'ETH ', 'BCH ', 'XRP ', 'XMR ', 'LTC ', 'ETC ', 'NEO ', 'BNB ', 'OMG ']","['BTC', 'ETH', 'BCH', 'XRP', 'MIOTA', 'XEM', 'LTC', 'DASH', 'NEO', 'ETC']"
+2017-08-21,"['BTC ', 'XRP ', 'BCH ', 'ETH ', 'LTC ', 'XMR ', 'ETC ', 'DASH ', 'NEO ', 'BNB ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'MIOTA', 'XEM', 'DASH', 'NEO', 'ETC']"
+2017-08-22,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'LTC ', 'ETC ', 'NEO ', 'XMR ', 'BNB ', 'OMG ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'MIOTA', 'XEM', 'DASH', 'NEO', 'ETC']"
+2017-08-23,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'LTC ', 'ETC ', 'QTUM ', 'XMR ', 'NEO ', 'DASH ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'MIOTA', 'XEM', 'DASH', 'NEO', 'ETC']"
+2017-08-24,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'LTC ', 'XMR ', 'DASH ', 'BNB ', 'ETC ', 'NEO ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'MIOTA', 'XEM', 'DASH', 'NEO', 'ETC']"
+2017-08-25,"['BTC ', 'ETH ', 'XMR ', 'DASH ', 'BCH ', 'XRP ', 'LTC ', 'QTUM ', 'LSK ', 'ZEC ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'MIOTA', 'XEM', 'DASH', 'NEO', 'XMR']"
+2017-08-26,"['BTC ', 'LTC ', 'ETH ', 'BCH ', 'XRP ', 'ETC ', 'DASH ', 'LSK ', 'XMR ', 'HC ']","['BTC', 'ETH', 'BCH', 'XRP', 'DASH', 'LTC', 'MIOTA', 'XEM', 'XMR', 'NEO']"
+2017-08-27,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'XMR ', 'ETC ', 'QTUM ', 'MCO ', 'DASH ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'MIOTA', 'XEM', 'NEO', 'XMR']"
+2017-08-28,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'XRP ', 'QTUM ', 'NEO ', 'XMR ', 'OMG ', 'MCO ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'NEO']"
+2017-08-29,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'OMG ', 'XRP ', 'QTUM ', 'XMR ', 'NEO ', 'ETC ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'NEO']"
+2017-08-30,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'XMR ', 'OMG ', 'ETC ', 'QTUM ', 'MCO ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'NEO']"
+2017-08-31,"['BTC ', 'LTC ', 'ETH ', 'ETC ', 'BCH ', 'XRP ', 'XMR ', 'OMG ', 'NEO ', 'QTUM ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'XEM', 'DASH', 'MIOTA', 'XMR', 'NEO']"
+2017-09-01,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'BCH ', 'XRP ', 'XMR ', 'QTUM ', 'OMG ', 'NEO ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'XEM', 'DASH', 'MIOTA', 'XMR', 'ETC']"
+2017-09-02,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'ETC ', 'XRP ', 'QTUM ', 'XMR ', 'OMG ', 'HC ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'XEM', 'DASH', 'MIOTA', 'ETC', 'XMR']"
+2017-09-03,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'ETC ', 'XRP ', 'NEO ', 'QTUM ', 'OMG ', 'XMR ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'XEM', 'DASH', 'MIOTA', 'XMR', 'ETC']"
+2017-09-04,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'QTUM ', 'ETC ', 'XMR ', 'OMG ', 'NEO ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'XEM', 'DASH', 'XMR', 'MIOTA', 'ETC']"
+2017-09-05,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'ETC ', 'XRP ', 'QTUM ', 'OMG ', 'NEO ', 'XMR ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'XEM', 'DASH', 'XMR', 'MIOTA', 'ETC']"
+2017-09-06,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'NEO ', 'QTUM ', 'ETC ', 'OMG ', 'XRP ', 'XMR ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'XEM', 'DASH', 'MIOTA', 'XMR', 'ETC']"
+2017-09-07,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'QTUM ', 'ETC ', 'XMR ', 'XRP ', 'NEO ', 'OMG ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'XEM', 'DASH', 'XMR', 'MIOTA', 'ETC']"
+2017-09-08,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'ETC ', 'QTUM ', 'OMG ', 'XRP ', 'NEO ', 'XMR ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'ETC']"
+2017-09-09,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'ETC ', 'QTUM ', 'XRP ', 'NEO ', 'OMG ', 'XMR ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'ETC']"
+2017-09-10,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'QTUM ', 'ETC ', 'XRP ', 'OMG ', 'BTS ', 'HC ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'ETC']"
+2017-09-11,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'ETC ', 'QTUM ', 'OMG ', 'XRP ', 'BTS ', 'MIOTA ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'ETC']"
+2017-09-12,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'QTUM ', 'XRP ', 'ETC ', 'XMR ', 'OMG ', 'NEO ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'ETC']"
+2017-09-13,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'ETC ', 'XRP ', 'QTUM ', 'XMR ', 'OMG ', 'NEO ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'ETC']"
+2017-09-14,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'ETC ', 'XRP ', 'QTUM ', 'XMR ', 'OMG ', 'BTS ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'ETC']"
+2017-09-15,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'ETC ', 'QTUM ', 'XRP ', 'XMR ', 'OMG ', 'NEO ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'OMG']"
+2017-09-16,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'QTUM ', 'ETC ', 'XRP ', 'XMR ', 'OMG ', 'DASH ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'NEO']"
+2017-09-17,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'QTUM ', 'ETC ', 'XRP ', 'XMR ', 'DASH ', 'OMG ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'XMR', 'MIOTA', 'NEO']"
+2017-09-18,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'ETC ', 'QTUM ', 'XRP ', 'XMR ', 'OMG ', 'DASH ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'ETC']"
+2017-09-19,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'DASH ', 'ETC ', 'QTUM ', 'OMG ', 'XRP ', 'XMR ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'ETC']"
+2017-09-20,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'DASH ', 'OMG ', 'XRP ', 'ETC ', 'QTUM ', 'XMR ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'ETC']"
+2017-09-21,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'DASH ', 'ZEC ', 'QTUM ', 'OMG ', 'XRP ', 'ETC ']","['BTC', 'ETH', 'BCH', 'XRP', 'DASH', 'LTC', 'XEM', 'MIOTA', 'XMR', 'ETC']"
+2017-09-22,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'DASH ', 'QTUM ', 'XRP ', 'ZEC ', 'OMG ', 'ETC ']","['BTC', 'ETH', 'BCH', 'XRP', 'DASH', 'LTC', 'XEM', 'MIOTA', 'XMR', 'ETC']"
+2017-09-23,"['BTC ', 'ETH ', 'BCH ', 'DASH ', 'LTC ', 'QTUM ', 'XMR ', 'ETC ', 'XRP ', 'OMG ']","['BTC', 'ETH', 'BCH', 'XRP', 'DASH', 'LTC', 'XEM', 'MIOTA', 'XMR', 'ETC']"
+2017-09-24,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'QTUM ', 'NEO ', 'OMG ', 'DASH ', 'XRP ', 'ETC ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'ETC']"
+2017-09-25,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'QTUM ', 'ETC ', 'XRP ', 'NEO ', 'DASH ', 'XMR ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'NEO']"
+2017-09-26,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'NEO ', 'ZEC ', 'ETC ', 'QTUM ', 'DASH ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'NEO']"
+2017-09-27,"['BTC ', 'ETH ', 'BCH ', 'ZEC ', 'LTC ', 'ETC ', 'XRP ', 'NEO ', 'QTUM ', 'OMG ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'MIOTA', 'XMR']"
+2017-09-28,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'ETC ', 'QTUM ', 'NEO ', 'XRP ', 'ZEC ', 'OMG ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'MIOTA', 'NEO', 'XMR']"
+2017-09-29,"['BTC ', 'ETH ', 'BCH ', 'QTUM ', 'LTC ', 'NEO ', 'ETC ', 'XRP ', 'ZEC ', 'XMR ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'MIOTA', 'XMR', 'NEO']"
+2017-09-30,"['BTC ', 'ETH ', 'BCH ', 'QTUM ', 'LTC ', 'NEO ', 'XRP ', 'ADA ', 'ETC ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'MIOTA', 'NEO', 'XMR']"
+2017-10-01,"['BTC ', 'ETH ', 'BCH ', 'NEO ', 'LTC ', 'XRP ', 'QTUM ', 'ADA ', 'ZEC ', 'OMG ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'MIOTA', 'XMR']"
+2017-10-02,"['BTC ', 'ETH ', 'BCH ', 'QTUM ', 'LTC ', 'NEO ', 'XRP ', 'XMR ', 'ETC ', 'DASH ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'MIOTA', 'XMR']"
+2017-10-03,"['BTC ', 'ETH ', 'BCH ', 'XRP ', 'LTC ', 'QTUM ', 'NEO ', 'DASH ', 'XMR ', 'HC ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'MIOTA', 'XMR']"
+2017-10-04,"['BTC ', 'XRP ', 'BCH ', 'ETH ', 'LTC ', 'QTUM ', 'NEO ', 'ZEC ', 'XMR ', 'DASH ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'MIOTA', 'XMR']"
+2017-10-05,"['BTC ', 'ETH ', 'BCH ', 'XRP ', 'LTC ', 'ZEC ', 'NEO ', 'ETC ', 'XMR ', 'XLM ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'MIOTA', 'XMR']"
+2017-10-06,"['BTC ', 'ETH ', 'BCH ', 'XRP ', 'XLM ', 'LTC ', 'NEO ', 'ZEC ', 'DASH ', 'HC ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'MIOTA', 'XMR']"
+2017-10-07,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'NEO ', 'LTC ', 'QTUM ', 'DASH ', 'ETC ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'MIOTA', 'XMR']"
+2017-10-08,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'LTC ', 'NEO ', 'QTUM ', 'DASH ', 'ETC ', 'XMR ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'MIOTA', 'XMR']"
+2017-10-09,"['BTC ', 'XRP ', 'BCH ', 'ETH ', 'LTC ', 'QTUM ', 'NEO ', 'DASH ', 'XMR ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'MIOTA', 'XMR']"
+2017-10-10,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'OMG ', 'LTC ', 'NEO ', 'QTUM ', 'DASH ', 'XMR ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'MIOTA', 'XMR']"
+2017-10-11,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'NEO ', 'ETC ', 'OMG ', 'DASH ', 'MONA ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'MIOTA', 'XMR']"
+2017-10-12,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'MONA ', 'NEO ', 'ETC ', 'DASH ', 'XMR ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'ETC']"
+2017-10-13,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'DASH ', 'MONA ', 'XMR ', 'ETC ', 'NEO ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-14,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'ETC ', 'DASH ', 'XMR ', 'NEO ', 'ZEC ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'XMR', 'NEO', 'MIOTA']"
+2017-10-15,"['BTC ', 'XRP ', 'ETH ', 'XLM ', 'LTC ', 'BCH ', 'DASH ', 'QTUM ', 'NEO ', 'XMR ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'XMR', 'NEO', 'MIOTA']"
+2017-10-16,"['BTC ', 'BCH ', 'ETH ', 'XRP ', 'LTC ', 'XLM ', 'ETC ', 'NEO ', 'ZEC ', 'QTUM ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'XMR', 'NEO', 'MIOTA']"
+2017-10-17,"['BTC ', 'ETH ', 'BCH ', 'XRP ', 'LTC ', 'XLM ', 'ETC ', 'QTUM ', 'NEO ', 'DASH ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-18,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'LTC ', 'QTUM ', 'XLM ', 'ZEN ', 'XMR ', 'DASH ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-19,"['BTC ', 'ETH ', 'QTUM ', 'XRP ', 'BCH ', 'LTC ', 'DASH ', 'XMR ', 'NEO ', 'XLM ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-20,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'XLM ', 'QTUM ', 'DASH ', 'ZEC ', 'NEO ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-21,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'XRP ', 'XLM ', 'DASH ', 'NEO ', 'QTUM ', 'XMR ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-22,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'XRP ', 'DASH ', 'QTUM ', 'XLM ', 'ETC ', 'NEO ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-23,"['BTC ', 'ETH ', 'BCH ', 'XRP ', 'LTC ', 'QTUM ', 'NEO ', 'XLM ', 'DASH ', 'OMG ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-24,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'XRP ', 'XMR ', 'QTUM ', 'ZEC ', 'DASH ', 'NEO ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-25,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'DASH ', 'ZEC ', 'XRP ', 'NEO ', 'QTUM ', 'XLM ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-26,"['BTC ', 'BCH ', 'ETH ', 'ZEC ', 'LTC ', 'DASH ', 'XRP ', 'NEO ', 'OMG ', 'XMR ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-27,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'DASH ', 'ZEC ', 'XRP ', 'XMR ', 'NEO ', 'ETC ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-28,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'DASH ', 'ETC ', 'XRP ', 'ZEC ', 'QTUM ', 'XMR ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'XEM', 'NEO', 'XMR', 'MIOTA']"
+2017-10-30,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'ZEC ', 'DASH ', 'XRP ', 'NEO ', 'XMR ', 'QTUM ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'NEO', 'XEM', 'XMR', 'MIOTA']"
+2017-10-31,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'NEO ', 'DASH ', 'XRP ', 'QTUM ', 'ZEC ', 'MCO ']","['BTC', 'ETH', 'XRP', 'BCH', 'LTC', 'DASH', 'NEO', 'XEM', 'XMR', 'MIOTA']"
+2017-11-01,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'DASH ', 'NEO ', 'ZEC ', 'OMG ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'XEM', 'XMR', 'MIOTA']"
+2017-11-02,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'XRP ', 'NEO ', 'DASH ', 'EOS ', 'OMG ', 'QTUM ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'XEM', 'XMR', 'MIOTA']"
+2017-11-03,"['BTC ', 'BCH ', 'ETH ', 'XRP ', 'LTC ', 'ETC ', 'DASH ', 'EOS ', 'QTUM ', 'ZEC ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'XEM', 'XMR', 'ETC']"
+2017-11-04,"['BTC ', 'BCH ', 'ETH ', 'ETC ', 'LTC ', 'XRP ', 'DASH ', 'EOS ', 'ZEC ', 'QTUM ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'XEM', 'XMR', 'ETC']"
+2017-11-05,"['BTC ', 'BCH ', 'ETH ', 'ETC ', 'LTC ', 'QTUM ', 'XRP ', 'DASH ', 'ZEC ', 'EOS ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'XEM', 'XMR', 'ETC']"
+2017-11-06,"['BTC ', 'BCH ', 'ETH ', 'ETC ', 'LTC ', 'QTUM ', 'XMR ', 'XRP ', 'DASH ', 'ZEC ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'XEM', 'XMR', 'ETC']"
+2017-11-07,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'ETC ', 'QTUM ', 'XRP ', 'DASH ', 'XMR ', 'ZEC ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'XEM', 'XMR', 'ETC']"
+2017-11-08,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'QTUM ', 'XRP ', 'ETC ', 'NEO ', 'DASH ', 'OMG ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'XEM', 'XMR', 'ETC']"
+2017-11-09,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'QTUM ', 'DASH ', 'XMR ', 'ZEC ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'XEM', 'XMR', 'MIOTA']"
+2017-11-10,"['BTC ', 'BCH ', 'ETH ', 'ETC ', 'LTC ', 'XRP ', 'QTUM ', 'DASH ', 'XMR ', 'ZEC ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'XEM', 'XMR', 'ETC']"
+2017-11-11,"['BCH ', 'BTC ', 'ETC ', 'ETH ', 'LTC ', 'BTG ', 'XRP ', 'QTUM ', 'XMR ', 'DASH ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'ETC', 'NEO', 'XMR', 'XEM']"
+2017-11-12,"['BTC ', 'BCH ', 'ETH ', 'ETC ', 'DASH ', 'LTC ', 'XRP ', 'XMR ', 'ZEC ', 'QTUM ']","['BTC', 'ETH', 'BCH', 'XRP', 'DASH', 'LTC', 'XMR', 'NEO', 'MIOTA', 'XEM']"
+2017-11-13,"['BTC ', 'BCH ', 'ETH ', 'ETC ', 'DASH ', 'LTC ', 'XRP ', 'XMR ', 'ZEC ', 'QTUM ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'XMR', 'NEO', 'XEM', 'MIOTA']"
+2017-11-14,"['BTC ', 'BCH ', 'ETH ', 'ETC ', 'LTC ', 'XRP ', 'DASH ', 'EOS ', 'QTUM ', 'XMR ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'XMR', 'XEM', 'ETC']"
+2017-11-15,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'ETC ', 'DASH ', 'XRP ', 'ZEC ', 'MIOTA ', 'EOS ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'MIOTA', 'NEO', 'XMR', 'XEM']"
+2017-11-16,"['BTC ', 'BCH ', 'XRP ', 'ETH ', 'LTC ', 'QTUM ', 'ETC ', 'ZEC ', 'LSK ', 'MIOTA ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'MIOTA', 'NEO', 'XMR', 'XEM']"
+2017-11-17,"['BTC ', 'BCH ', 'ETH ', 'XRP ', 'LTC ', 'NEO ', 'ETC ', 'QTUM ', 'MIOTA ', 'DASH ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'MIOTA', 'XMR', 'XEM']"
+2017-11-18,"['BTC ', 'BCH ', 'ETH ', 'NEO ', 'LTC ', 'ETC ', 'DASH ', 'XRP ', 'QTUM ', 'XMR ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'MIOTA', 'XMR', 'XEM']"
+2017-11-19,"['BTC ', 'BCH ', 'ETH ', 'NEO ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'MIOTA ', 'QTUM ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'NEO', 'MIOTA', 'XMR', 'XEM']"
+2017-11-20,"['BTC ', 'ETH ', 'BCH ', 'NEO ', 'XRP ', 'LTC ', 'QTUM ', 'ETC ', 'DASH ', 'BTG ']","['BTC', 'ETH', 'BCH', 'XRP', 'LTC', 'DASH', 'MIOTA', 'NEO', 'XMR', 'XEM']"
+2017-11-21,"['BTC ', 'ETH ', 'BCH ', 'BTG ', 'DASH ', 'LTC ', 'XRP ', 'ETC ', 'QTUM ', 'NEO ']","['BTC', 'ETH', 'BCH', 'XRP', 'DASH', 'LTC', 'MIOTA', 'NEO', 'XMR', 'XEM']"
+2017-11-22,"['BTC ', 'BCH ', 'ETH ', 'DASH ', 'XMR ', 'XRP ', 'LTC ', 'ZEC ', 'BTG ', 'LSK ']","['BTC', 'ETH', 'BCH', 'XRP', 'DASH', 'LTC', 'XMR', 'MIOTA', 'NEO', 'XEM']"
+2017-11-23,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'BTG ', 'QTUM ', 'XMR ']","['BTC', 'ETH', 'BCH', 'XRP', 'DASH', 'LTC', 'XMR', 'NEO', 'MIOTA', 'XEM']"
+2017-11-24,"['BTC ', 'BCH ', 'ETH ', 'BTG ', 'ETC ', 'LTC ', 'XRP ', 'ZEC ', 'QTUM ', 'DASH ']","['BTC', 'ETH', 'BCH', 'XRP', 'DASH', 'LTC', 'XMR', 'NEO', 'MIOTA', 'ETC']"
+2017-11-25,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'ETC ', 'DASH ', 'XRP ', 'BTG ', 'QTUM ', 'NEO ']","['BTC', 'ETH', 'BCH', 'XRP', 'BTG', 'DASH', 'LTC', 'XMR', 'NEO', 'MIOTA']"
+2017-11-26,"['BTC ', 'BCH ', 'ETH ', 'ETC ', 'LTC ', 'DASH ', 'BTG ', 'XRP ', 'EOS ', 'QTUM ']","['BTC', 'ETH', 'BCH', 'XRP', 'BTG', 'DASH', 'LTC', 'XMR', 'NEO', 'MIOTA']"
+2017-11-27,"['BTC ', 'ETH ', 'BCH ', 'ETC ', 'LTC ', 'XRP ', 'MIOTA ', 'QTUM ', 'DASH ', 'BTG ']",
+2017-11-28,"['BTC ', 'ETC ', 'ETH ', 'BCH ', 'XRP ', 'MIOTA ', 'LTC ', 'QTUM ', 'ADA ', 'XMR ']",
+2017-11-29,"['BTC ', 'ETH ', 'BCH ', 'ETC ', 'LTC ', 'XRP ', 'DASH ', 'MIOTA ', 'BTG ', 'XLM ']",
+2017-11-30,"['BTC ', 'ETH ', 'BCH ', 'ETC ', 'DASH ', 'LTC ', 'XRP ', 'MIOTA ', 'BTG ', 'XMR ']",
+2017-12-01,"['BTC ', 'ETH ', 'BCH ', 'ETC ', 'LTC ', 'DASH ', 'XRP ', 'MIOTA ', 'BTG ', 'XLM ']",
+2017-12-02,"['BTC ', 'ETH ', 'ETC ', 'BCH ', 'LTC ', 'DASH ', 'EOS ', 'XRP ', 'MIOTA ', 'QTUM ']",
+2017-12-03,"['BTC ', 'BCH ', 'ETH ', 'ETC ', 'MIOTA ', 'LTC ', 'BTG ', 'DASH ', 'XRP ', 'EOS ']",
+2017-12-04,"['BTC ', 'MIOTA ', 'ETH ', 'BCH ', 'LTC ', 'ETC ', 'EOS ', 'NEO ', 'DASH ', 'QTUM ']",
+2017-12-05,"['BTC ', 'MIOTA ', 'ETH ', 'BCH ', 'XMR ', 'ETC ', 'LTC ', 'MCO ', 'DASH ', 'EOS ']",
+2017-12-06,"['BTC ', 'MIOTA ', 'ETH ', 'BCH ', 'LTC ', 'XMR ', 'ETC ', 'XLM ', 'XRP ', 'DASH ']",
+2017-12-07,"['BTC ', 'ETH ', 'BCH ', 'MIOTA ', 'LTC ', 'ETC ', 'XLM ', 'XMR ', 'XRP ', 'QTUM ']",
+2017-12-08,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'MIOTA ', 'XRP ', 'ETC ', 'DASH ', 'XEM ', 'XMR ']",
+2017-12-09,"['BTC ', 'LTC ', 'ETH ', 'BCH ', 'MIOTA ', 'ETC ', 'DASH ', 'XEM ', 'XRP ', 'XMR ']",
+2017-12-10,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'MIOTA ', 'ETC ', 'XRP ', 'DASH ', 'XMR ', 'BTG ']",
+2017-12-11,"['BTC ', 'LTC ', 'ETH ', 'BCH ', 'ETC ', 'MIOTA ', 'BTG ', 'QTUM ', 'DASH ', 'XRP ']",
+2017-12-12,"['BTC ', 'LTC ', 'ETH ', 'XRP ', 'BCH ', 'ETC ', 'MIOTA ', 'DASH ', 'XMR ', 'EOS ']",
+2017-12-13,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'ETC ', 'EOS ', 'QTUM ', 'MIOTA ', 'NEO ']",
+2017-12-14,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'LTC ', 'ETC ', 'EOS ', 'MIOTA ', 'BTG ', 'ZEC ']",
+2017-12-15,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'BCH ', 'QTUM ', 'EOS ', 'ETC ', 'MIOTA ', 'XLM ']",
+2017-12-16,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'ETC ', 'BCH ', 'QTUM ', 'ADA ', 'EOS ', 'TRX ']",
+2017-12-17,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'ADA ', 'XVG ', 'NEO ', 'DASH ', 'ETC ']",
+2017-12-18,"['BTC ', 'ETH ', 'BCH ', 'QTUM ', 'LTC ', 'XRP ', 'ETC ', 'EOS ', 'MIOTA ', 'NEO ']",
+2017-12-19,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'QTUM ', 'EOS ', 'XRP ', 'MIOTA ', 'ETC ', 'BTG ']",
+2017-12-20,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'QTUM ', 'XRP ', 'BTG ', 'XVG ', 'ETC ', 'DASH ']",
+2017-12-21,"['BTC ', 'BCH ', 'XRP ', 'ETH ', 'LTC ', 'QTUM ', 'ETC ', 'DASH ', 'TRX ', 'MIOTA ']",
+2017-12-22,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'LTC ', 'QTUM ', 'MIOTA ', 'ETC ', 'EOS ', 'DASH ']",
+2017-12-23,"['BTC ', 'BCH ', 'ETH ', 'XRP ', 'LTC ', 'XVG ', 'QTUM ', 'TRX ', 'ETC ', 'DASH ']",
+2017-12-24,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'XRP ', 'QTUM ', 'XVG ', 'ETC ', 'MIOTA ', 'TRX ']",
+2017-12-25,"['BTC ', 'ETH ', 'BCH ', 'QTUM ', 'LTC ', 'XRP ', 'XVG ', 'EOS ', 'ETC ', 'ICX ']",
+2017-12-26,"['BTC ', 'ETH ', 'BCH ', 'XRP ', 'LTC ', 'XVG ', 'QTUM ', 'EOS ', 'ETC ', 'TRX ']",
+2017-12-27,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'LTC ', 'QTUM ', 'EOS ', 'HC ', 'XVG ', 'MIOTA ']",
+2017-12-28,"['BTC ', 'BCH ', 'XRP ', 'LTC ', 'ETH ', 'QTUM ', 'XVG ', 'EOS ', 'ETC ', 'TRX ']",
+2017-12-29,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'LTC ', 'QTUM ', 'EOS ', 'XLM ', 'XVG ', 'ADA ']",
+2017-12-30,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'QTUM ', 'LTC ', 'ADA ', 'XLM ', 'EOS ', 'TRX ']",
+2017-12-31,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'XVG ', 'LTC ', 'QTUM ', 'TRX ', 'OMG ', 'HC ']",
+2018-01-01,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'ETC ', 'XVG ', 'QTUM ', 'XLM ', 'LTC ', 'TRX ']",
+2018-01-02,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'TRX ', 'LTC ', 'XLM ', 'ETC ', 'QTUM ', 'EOS ']",
+2018-01-03,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'LTC ', 'XLM ', 'TRX ', 'ETC ', 'QTUM ', 'ADA ']",
+2018-01-04,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'TRX ', 'LTC ', 'ETC ', 'EOS ', 'XLM ', 'QTUM ']",
+2018-01-05,"['BTC ', 'ETH ', 'XRP ', 'TRX ', 'BCH ', 'LTC ', 'QTUM ', 'XLM ', 'EOS ', 'XVG ']",
+2018-01-06,"['BTC ', 'ETH ', 'XRP ', 'TRX ', 'LTC ', 'QTUM ', 'BCH ', 'EOS ', 'BNB ', 'SC ']",
+2018-01-07,"['BTC ', 'ETH ', 'XRP ', 'TRX ', 'QTUM ', 'BCH ', 'LTC ', 'EOS ', 'ZEC ', 'ETC ']",
+2018-01-08,"['BTC ', 'ETH ', 'XRP ', 'TRX ', 'BCH ', 'LTC ', 'QTUM ', 'ETC ', 'EOS ', 'XVG ']",
+2018-01-09,"['BTC ', 'ETH ', 'XRP ', 'TRX ', 'BCH ', 'LTC ', 'QTUM ', 'ETC ', 'XVG ', 'EOS ']",
+2018-01-10,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'TRX ', 'EOS ', 'LTC ', 'ETC ', 'QTUM ', 'NEO ']",
+2018-01-11,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'EOS ', 'LTC ', 'TRX ', 'QTUM ', 'ETC ', 'BNB ']",
+2018-01-12,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'QTUM ', 'LTC ', 'TRX ', 'ETC ', 'XLM ']",
+2018-01-13,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'BTG ', 'LTC ', 'QTUM ', 'ETC ', 'TRX ']",
+2018-01-14,"['BTC ', 'ETH ', 'XRP ', 'ETC ', 'EOS ', 'BCH ', 'LTC ', 'BTG ', 'QTUM ', 'TRX ']",
+2018-01-15,"['BTC ', 'ETH ', 'XRP ', 'BTG ', 'QTUM ', 'NEO ', 'BCH ', 'TRX ', 'ADA ', 'EOS ']",
+2018-01-16,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'NEO ', 'ADA ', 'EOS ', 'LTC ', 'SNT ', 'QTUM ']",
+2018-01-17,"['BTC ', 'ETH ', 'XRP ', 'ADA ', 'SNT ', 'EOS ', 'NEO ', 'BCH ', 'LTC ', 'TRX ']",
+2018-01-18,"['BTC ', 'XRP ', 'ETH ', 'TRX ', 'ADA ', 'EOS ', 'SNT ', 'BCH ', 'LTC ', 'NEO ']",
+2018-01-19,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'BTG ', 'QTUM ', 'ADA ', 'LTC ']",
+2018-01-20,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'QTUM ', 'BCH ', 'ADA ', 'TRX ', 'LTC ', 'NEO ']",
+2018-01-21,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'QTUM ', 'ADA ', 'BCH ', 'TRX ', 'LTC ', 'ETC ']",
+2018-01-22,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'QTUM ', 'TRX ', 'ADA ', 'LTC ', 'XLM ']",
+2018-01-23,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'QTUM ', 'LTC ', 'TRX ', 'ADA ', 'PIVX ']",
+2018-01-24,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'ADA ', 'XLM ', 'TRX ', 'BCH ', 'NEO ', 'QTUM ']",
+2018-01-25,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'ADA ', 'XLM ', 'BCH ', 'LTC ', 'TRX ', 'QTUM ']",
+2018-01-26,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'ADA ', 'XLM ', 'BCH ', 'TRX ', 'QTUM ', 'LTC ']",
+2018-01-27,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'ADA ', 'LTC ', 'TRX ', 'XEM ', 'QTUM ']",
+2018-01-28,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'QTUM ', 'ADA ', 'TRX ']",
+2018-01-29,"['BTC ', 'ETH ', 'XRP ', 'NEO ', 'EOS ', 'QTUM ', 'BCH ', 'LTC ', 'TRX ', 'ADA ']",
+2018-01-30,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'NEO ', 'BCH ', 'LTC ', 'ADA ', 'QTUM ', 'TRX ']",
+2018-01-31,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'ADA ', 'QTUM ', 'LTC ', 'NEO ', 'LSK ']",
+2018-02-01,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'ADA ', 'LTC ', 'QTUM ', 'NEO ', 'TRX ']",
+2018-02-02,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'ADA ', 'BCH ', 'LTC ', 'QTUM ', 'NEO ', 'SNT ']",
+2018-02-03,"['BTC ', 'ETH ', 'XRP ', 'ADA ', 'EOS ', 'LTC ', 'SNT ', 'BCH ', 'QTUM ', 'XLM ']",
+2018-02-04,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'SNT ', 'ADA ', 'BCH ', 'EOS ', 'XLM ', 'QTUM ']",
+2018-02-05,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'ADA ', 'EOS ', 'BCH ', 'SNT ', 'XLM ', 'NEO ']",
+2018-02-06,"['BTC ', 'ETH ', 'XRP ', 'ADA ', 'EOS ', 'SNT ', 'LTC ', 'BCH ', 'NEO ', 'XLM ']",
+2018-02-07,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'LTC ', 'EOS ', 'ADA ', 'NEO ', 'SNT ', 'QTUM ']",
+2018-02-08,"['BTC ', 'ETH ', 'BCH ', 'XRP ', 'LTC ', 'NEO ', 'EOS ', 'ADA ', 'QTUM ', 'ETC ']",
+2018-02-09,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'LTC ', 'QTUM ', 'EOS ', 'ADA ', 'ETC ', 'NEO ']",
+2018-02-10,"['BTC ', 'XRP ', 'ETH ', 'ADA ', 'BCH ', 'EOS ', 'LTC ', 'TRX ', 'SNT ', 'QTUM ']",
+2018-02-11,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'ETC ', 'ADA ', 'TRX ', 'QTUM ']",
+2018-02-12,"['BTC ', 'ETH ', 'XRP ', 'ETC ', 'LTC ', 'BCH ', 'EOS ', 'NEO ', 'ADA ', 'TRX ']",
+2018-02-13,"['BTC ', 'ETH ', 'ETC ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'QTUM ', 'ADA ', 'XLM ']",
+2018-02-14,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'BCH ', 'EOS ', 'QTUM ', 'ADA ', 'NEO ']",
+2018-02-15,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'BCH ', 'EOS ', 'ADA ', 'QTUM ', 'NEO ']",
+2018-02-16,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'EOS ', 'NEO ', 'ADA ']",
+2018-02-17,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'ETC ', 'XVG ', 'ADA ', 'NEO ', 'EOS ']",
+2018-02-18,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'ETC ', 'EOS ', 'ADA ', 'NEO ', 'TRX ']",
+2018-02-19,"['BTC ', 'ETH ', 'ETC ', 'LTC ', 'BCH ', 'XRP ', 'EOS ', 'NEO ', 'QTUM ', 'TRX ']",
+2018-02-20,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'BCH ', 'XRP ', 'EOS ', 'ADA ', 'LSK ', 'NEO ']",
+2018-02-21,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'XRP ', 'BCH ', 'EOS ', 'ADA ', 'NEO ', 'TRX ']",
+2018-02-22,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'ETC ', 'BCH ', 'EOS ', 'ADA ', 'NEO ', 'TRX ']",
+2018-02-23,"['BTC ', 'ETH ', 'ETC ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'NANO ', 'ADA ', 'NEO ']",
+2018-02-24,"['BTC ', 'ETH ', 'ETC ', 'LTC ', 'XRP ', 'BCH ', 'NANO ', 'EOS ', 'TRX ', 'NEO ']",
+2018-02-25,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'BCH ', 'XRP ', 'ADA ', 'TRX ', 'EOS ', 'NANO ']",
+2018-02-26,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'BCH ', 'XRP ', 'NEO ', 'QTUM ', 'EOS ', 'ADA ']",
+2018-02-27,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'NEO ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'NANO ']",
+2018-02-28,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'EOS ', 'BCH ', 'XRP ', 'NEO ', 'TRX ', 'DGD ']",
+2018-03-01,"['BTC ', 'ETH ', 'LTC ', 'ETC ', 'BCH ', 'XRP ', 'TRX ', 'NEO ', 'EOS ', 'ADA ']",
+2018-03-02,"['BTC ', 'ETH ', 'TRX ', 'LTC ', 'ETC ', 'BCH ', 'XRP ', 'EOS ', 'NXS ', 'XMR ']",
+2018-03-03,"['BTC ', 'ETH ', 'ETC ', 'LTC ', 'TRX ', 'BCH ', 'XRP ', 'XMR ', 'EOS ', 'NEO ']",
+2018-03-04,"['BTC ', 'ETH ', 'XRP ', 'ETC ', 'LTC ', 'BCH ', 'TRX ', 'EOS ', 'NEO ', 'XMR ']",
+2018-03-05,"['BTC ', 'ETH ', 'XRP ', 'ETC ', 'LTC ', 'BCH ', 'TRX ', 'NEO ', 'ADA ', 'EOS ']",
+2018-03-06,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'ETC ', 'TRX ', 'EOS ', 'NEO ', 'DASH ']",
+2018-03-07,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'NEO ', 'TRX ', 'ADA ']",
+2018-03-08,"['BTC ', 'ETH ', 'ETC ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'TRX ', 'ADA ', 'NEO ']",
+2018-03-09,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'ETC ', 'EOS ', 'TRX ', 'ADA ', 'NEO ']",
+2018-03-10,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'ETC ', 'TRX ', 'ADA ', 'NEO ']",
+2018-03-11,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'EOS ', 'TRX ', 'ADA ', 'NEO ']",
+2018-03-12,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'EOS ', 'ADA ', 'NEO ']",
+2018-03-13,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'BNB ', 'TRX ', 'EOS ', 'ETC ', 'XEM ']",
+2018-03-14,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'ETC ', 'TRX ', 'XEM ', 'NEO ']",
+2018-03-15,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'ETC ', 'EOS ', 'ADA ', 'NEO ', 'TRX ']",
+2018-03-16,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'LTC ', 'ETC ', 'EOS ', 'TRX ', 'NEO ', 'QTUM ']",
+2018-03-17,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'EOS ', 'TRX ', 'QTUM ', 'DASH ']",
+2018-03-18,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'NEO ', 'ETC ', 'ADA ', 'QTUM ']",
+2018-03-19,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'QTUM ', 'BCH ', 'ADA ', 'ETC ', 'NEO ']",
+2018-03-20,"['BTC ', 'ETH ', 'XRP ', 'QTUM ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'XEM ', 'NEO ']",
+2018-03-21,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'QTUM ', 'ETC ', 'ADA ', 'ICX ']",
+2018-03-22,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'QTUM ', 'ETC ', 'TRX ', 'ADA ']",
+2018-03-23,"['BTC ', 'ETH ', 'EOS ', 'ICX ', 'XRP ', 'LTC ', 'BCH ', 'TRX ', 'QTUM ', 'ETC ']",
+2018-03-24,"['BTC ', 'ETH ', 'TRX ', 'XRP ', 'EOS ', 'LTC ', 'BCH ', 'BNB ', 'QTUM ', 'ICX ']",
+2018-03-25,"['BTC ', 'BTC ', 'ETH ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'TRX ', 'TRX ']",
+2018-03-26,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'XVG ', 'QTUM ']",
+2018-03-27,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'TRX ', 'XRP ', 'ETC ', 'QTUM ', 'DASH ']",
+2018-03-28,"['BTC ', 'ETH ', 'EOS ', 'TRX ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'QTUM ', 'NEO ']",
+2018-03-29,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'BCH ', 'TRX ', 'ETC ', 'ADA ', 'QTUM ']",
+2018-03-30,"['BTC ', 'ETH ', 'TRX ', 'BCH ', 'LTC ', 'XRP ', 'EOS ', 'ETC ', 'ADA ', 'BNB ']",
+2018-03-31,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'ETC ', 'ADA ', 'QTUM ']",
+2018-04-01,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'ETC ', 'QTUM ', 'BNB ']",
+2018-04-02,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'XVG ', 'EOS ', 'BCH ', 'TRX ', 'ADA ', 'SNT ']",
+2018-04-03,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'XVG ', 'TRX ', 'ADA ', 'BNB ']",
+2018-04-04,"['BTC ', 'TRX ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'XVG ', 'ADA ', 'BNB ']",
+2018-04-05,"['BTC ', 'ETH ', 'TRX ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'BNB ', 'QTUM ']",
+2018-04-06,"['BTC ', 'ETH ', 'TRX ', 'BCH ', 'EOS ', 'LTC ', 'XRP ', 'XVG ', 'BNB ', 'QTUM ']",
+2018-04-07,"['BTC ', 'ETH ', 'TRX ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'BNB ', 'QTUM ']",
+2018-04-08,"['BTC ', 'ETH ', 'TRX ', 'XRP ', 'NEO ', 'LTC ', 'BCH ', 'EOS ', 'XVG ', 'QTUM ']",
+2018-04-09,"['BTC ', 'ETH ', 'XVG ', 'TRX ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'NEO ', 'QTUM ']",
+2018-04-10,"['BTC ', 'EOS ', 'ETH ', 'XRP ', 'TRX ', 'BCH ', 'LTC ', 'NEO ', 'XVG ', 'QTUM ']",
+2018-04-11,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'ADA ', 'BCH ', 'TRX ', 'NEO ', 'QTUM ']",
+2018-04-12,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'TRX ', 'LTC ', 'BCH ', 'OMG ', 'QTUM ', 'ADA ']",
+2018-04-13,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'TRX ', 'BCH ', 'LTC ', 'QTUM ', 'XVG ', 'ETC ']",
+2018-04-14,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'LTC ', 'QTUM ', 'ADA ', 'MIOTA ']",
+2018-04-15,"['BTC ', 'ETH ', 'ADA ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'LTC ', 'XVG ', 'OMG ']",
+2018-04-16,"['BTC ', 'ETH ', 'XVG ', 'EOS ', 'LTC ', 'ADA ', 'XRP ', 'TRX ', 'BCH ', 'QTUM ']",
+2018-04-17,"['BTC ', 'ETH ', 'BCH ', 'XRP ', 'EOS ', 'TRX ', 'LTC ', 'XVG ', 'QTUM ', 'ETC ']",
+2018-04-18,"['BTC ', 'ETH ', 'XRP ', 'MCO ', 'BCH ', 'TRX ', 'EOS ', 'XVG ', 'LTC ', 'ADA ']",
+2018-04-19,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'TRX ', 'ADA ', 'ETC ', 'QTUM ']",
+2018-04-20,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'LTC ', 'ADA ', 'ETC ', 'QTUM ']",
+2018-04-21,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'QTUM ', 'ADA ', 'ETC ']",
+2018-04-22,"['BTC ', 'ETH ', 'BCH ', 'XRP ', 'EOS ', 'TRX ', 'LTC ', 'ETC ', 'QTUM ', 'DASH ']",
+2018-04-23,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'LTC ', 'ADA ', 'ETC ', 'QTUM ']",
+2018-04-24,"['BTC ', 'ETH ', 'EOS ', 'TRX ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'ADA ', 'QTUM ']",
+2018-04-25,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'OMG ', 'LTC ', 'SC ', 'ETC ']",
+2018-04-26,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'LTC ', 'SC ', 'ETC ', 'QTUM ']",
+2018-04-27,"['BTC ', 'EOS ', 'ETH ', 'BCH ', 'XRP ', 'TRX ', 'ADA ', 'LTC ', 'ETC ', 'QTUM ']",
+2018-04-28,"['BTC ', 'EOS ', 'ETH ', 'TRX ', 'BCH ', 'XRP ', 'ADA ', 'NEO ', 'LTC ', 'QTUM ']",
+2018-04-29,"['BTC ', 'EOS ', 'ETH ', 'TRX ', 'BCH ', 'XRP ', 'QTUM ', 'NEO ', 'ETC ', 'LTC ']",
+2018-04-30,"['BTC ', 'EOS ', 'ETH ', 'TRX ', 'BCH ', 'XRP ', 'ADA ', 'LTC ', 'XVG ', 'QTUM ']",
+2018-05-01,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'LTC ', 'ADA ', 'QTUM ', 'ETC ']",
+2018-05-02,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'LTC ', 'ETC ', 'MIOTA ', 'ADA ']",
+2018-05-03,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'LTC ', 'ETC ', 'QTUM ', 'ADA ']",
+2018-05-04,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'LTC ', 'XRP ', 'TRX ', 'ETC ', 'QTUM ', 'ADA ']",
+2018-05-05,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'LTC ', 'TRX ', 'QTUM ', 'NEO ']",
+2018-05-06,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'ETC ', 'QTUM ', 'ADA ']",
+2018-05-07,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'BCN ', 'LTC ', 'XRP ', 'TRX ', 'MIOTA ', 'ETC ']",
+2018-05-08,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'XRP ', 'LTC ', 'TRX ', 'ETC ', 'ADA ', 'QTUM ']",
+2018-05-09,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'ETC ', 'QTUM ', 'BCN ']",
+2018-05-10,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'LTC ', 'ETC ', 'ADA ', 'ICX ']",
+2018-05-11,"['BTC ', 'EOS ', 'ETH ', 'BCH ', 'TRX ', 'XRP ', 'LTC ', 'ETC ', 'ADA ', 'QTUM ']",
+2018-05-12,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'LTC ', 'ETC ', 'ADA ', 'BCN ']",
+2018-05-13,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'ZEC ', 'ETC ', 'QTUM ']",
+2018-05-14,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'ZEC ', 'LTC ', 'TRX ', 'ETC ', 'DASH ']",
+2018-05-15,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'LTC ', 'ZEC ', 'QTUM ', 'ETC ']",
+2018-05-16,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'DASH ', 'QTUM ', 'ETC ']",
+2018-05-17,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'BNB ', 'ZEC ', 'ETC ']",
+2018-05-18,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'ZEC ', 'ETC ', 'BNB ']",
+2018-05-19,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'LTC ', 'XRP ', 'ETC ', 'QTUM ', 'ZEC ']",
+2018-05-20,"['BTC ', 'ETH ', 'EOS ', 'TRX ', 'BCH ', 'LTC ', 'XRP ', 'QTUM ', 'ETC ', 'NEO ']",
+2018-05-21,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'LTC ', 'XRP ', 'ZEC ', 'ETC ', 'QTUM ']",
+2018-05-22,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'LTC ', 'ETC ', 'ZEC ', 'QTUM ']",
+2018-05-23,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'LTC ', 'ETC ', 'QTUM ', 'ADA ']",
+2018-05-24,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'LTC ', 'XRP ', 'ETC ', 'QTUM ', 'NEO ']",
+2018-05-25,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'LTC ', 'XRP ', 'ETC ', 'QTUM ', 'DASH ']",
+2018-05-26,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'LTC ', 'XRP ', 'ETC ', 'QTUM ', 'DASH ']",
+2018-05-27,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'LTC ', 'ETC ', 'QTUM ', 'ADA ']",
+2018-05-28,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'LTC ', 'ADA ', 'ETC ', 'QTUM ']",
+2018-05-29,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'LTC ', 'ADA ', 'ETC ', 'QTUM ']",
+2018-05-30,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'LTC ', 'XRP ', 'ADA ', 'MIOTA ', 'ETC ']",
+2018-05-31,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'TRX ', 'XRP ', 'QTUM ', 'MIOTA ', 'ETC ']",
+2018-06-01,"['BTC ', 'EOS ', 'ETH ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'QTUM ', 'ETC ', 'ADA ']",
+2018-06-02,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'MIOTA ', 'ETC ', 'QTUM ']",
+2018-06-03,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'ETC ', 'QTUM ', 'ADA ']",
+2018-06-04,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'QTUM ', 'ETC ', 'ADA ']",
+2018-06-05,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'BNB ', 'QTUM ', 'ETC ']",
+2018-06-06,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'BNB ', 'QTUM ', 'ETC ']",
+2018-06-07,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'ETC ', 'QTUM ', 'BNB ']",
+2018-06-08,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'QTUM ', 'ETC ', 'BNB ']",
+2018-06-09,"['BTC ', 'EOS ', 'ETH ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'ETC ', 'ADA ', 'QTUM ']",
+2018-06-10,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'ETC ', 'QTUM ', 'ADA ']",
+2018-06-11,"['BTC ', 'ETH ', 'EOS ', 'ETC ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'QTUM ', 'BNB ']",
+2018-06-12,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'QTUM ']",
+2018-06-13,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'ETC ', 'ADA ', 'SC ']",
+2018-06-14,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'QTUM ']",
+2018-06-15,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'QTUM ']",
+2018-06-16,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'QTUM ', 'DASH ', 'TRX ']",
+2018-06-17,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'QTUM ', 'DASH ']",
+2018-06-18,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'LTC ', 'ETC ', 'XRP ', 'QTUM ', 'DASH ']",
+2018-06-19,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'LTC ', 'XRP ', 'QTUM ', 'DASH ']",
+2018-06-20,"['BTC ', 'ETH ', 'EOS ', 'ETC ', 'BCH ', 'LTC ', 'TRX ', 'XRP ', 'BNB ', 'QTUM ']",
+2018-06-21,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'XRP ', 'TRX ', 'BNB ', 'NEO ']",
+2018-06-22,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'QTUM ', 'BNB ']",
+2018-06-23,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'BNB ']",
+2018-06-24,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'QTUM ']",
+2018-06-25,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'DASH ', 'XRP ', 'QTUM ', 'TRX ']",
+2018-06-26,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'QTUM ', 'TRX ']",
+2018-06-27,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'TRX ', 'QTUM ']",
+2018-06-28,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'TRX ', 'DASH ', 'QTUM ']",
+2018-06-29,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'QTUM ', 'LTC ', 'ETC ', 'TRX ', 'DASH ']",
+2018-06-30,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'QTUM ', 'TRX ']",
+2018-07-01,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'TRX ', 'ADA ', 'DASH ']",
+2018-07-02,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'SYS ', 'DASH ', 'TRX ']",
+2018-07-03,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'DASH ', 'NEO ', 'TRX ']",
+2018-07-04,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'NEO ', 'QTUM ']",
+2018-07-05,"['BTC ', 'ETH ', 'EOS ', 'ETC ', 'BCH ', 'LTC ', 'XRP ', 'DASH ', 'NEO ', 'QTUM ']",
+2018-07-06,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'ETC ', 'LTC ', 'XRP ', 'DASH ', 'QTUM ', 'TRX ']",
+2018-07-07,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'ETC ', 'LTC ', 'XRP ', 'DASH ', 'NEO ', 'QTUM ']",
+2018-07-08,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'ETC ', 'LTC ', 'XRP ', 'NEO ', 'DASH ', 'TRX ']",
+2018-07-09,"['BTC ', 'ETH ', 'EOS ', 'ETC ', 'BCH ', 'LTC ', 'XRP ', 'NEO ', 'DASH ', 'TRX ']",
+2018-07-10,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'DASH ', 'XRP ', 'TRX ', 'NEO ']",
+2018-07-11,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'ETC ', 'XRP ', 'TRX ', 'NEO ']",
+2018-07-12,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'DASH ', 'TRX ', 'XRP ', 'NEO ']",
+2018-07-13,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'TRX ', 'ETC ', 'XRP ', 'DASH ', 'QTUM ']",
+2018-07-14,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'TRX ', 'ETC ', 'XRP ', 'DASH ', 'QTUM ']",
+2018-07-15,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'QTUM ', 'DASH ']",
+2018-07-16,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'TRX ', 'DASH ', 'QTUM ']",
+2018-07-17,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ADA ', 'TRX ', 'DASH ', 'ETC ']",
+2018-07-18,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'ETC ', 'ADA ', 'DASH ']",
+2018-07-19,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'TRX ', 'ADA ', 'DASH ']",
+2018-07-20,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'TRX ', 'QTUM ', 'XRP ', 'ETC ', 'DASH ']",
+2018-07-21,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'LTC ', 'TRX ', 'DASH ', 'XRP ', 'QTUM ', 'ETC ']",
+2018-07-22,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'QTUM ', 'DASH ', 'ETC ']",
+2018-07-23,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'TRX ', 'XRP ', 'QTUM ', 'ETC ', 'ADA ']",
+2018-07-24,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'QTUM ', 'XLM ', 'ETC ']",
+2018-07-25,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'XLM ', 'QTUM ']",
+2018-07-26,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'TRX ', 'XRP ', 'QTUM ', 'ETC ', 'AE ']",
+2018-07-27,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'QTUM ', 'TRX ', 'XRP ', 'ETC ', 'ZEC ']",
+2018-07-28,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'LTC ', 'XRP ', 'QTUM ', 'ETC ', 'ZEC ']",
+2018-07-29,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'DASH ', 'LTC ', 'TRX ', 'XRP ', 'ETC ', 'ZEC ']",
+2018-07-30,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'TRX ', 'ETC ', 'QTUM ', 'ZEC ']",
+2018-07-31,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'QTUM ', 'ETC ', 'ZEC ', 'TRX ']",
+2018-07-31,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'QTUM ', 'ETC ', 'ZEC ', 'TRX ']",
+2018-08-01,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'QTUM ', 'ZEC ']",
+2018-08-02,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'TRX ', 'QTUM ']",
+2018-08-03,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'XRP ', 'QTUM ', 'DASH ', 'TRX ']",
+2018-08-04,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'TRX ', 'QTUM ']",
+2018-08-05,"['BTC ', 'ETH ', 'EOS ', 'ETC ', 'BCH ', 'LTC ', 'XRP ', 'DASH ', 'QTUM ', 'TRX ']",
+2018-08-06,"['BTC ', 'ETH ', 'ETC ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'DASH ', 'ZEC ', 'QTUM ']",
+2018-08-07,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'LTC ', 'DASH ', 'QTUM ', 'TRX ']",
+2018-08-08,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'LTC ', 'QTUM ', 'TRX ', 'DASH ']",
+2018-08-09,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'ETC ', 'LTC ', 'XRP ', 'QTUM ', 'TRX ', 'XLM ']",
+2018-08-10,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'QTUM ', 'TRX ', 'DASH ']",
+2018-08-11,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'XRP ', 'QTUM ', 'DASH ', 'TRX ']",
+2018-08-12,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'LTC ', 'QTUM ', 'DASH ', 'TRX ']",
+2018-08-13,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'LTC ', 'QTUM ', 'DASH ', 'ADA ']",
+2018-08-14,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'LTC ', 'QTUM ', 'TRX ', 'DASH ']",
+2018-08-15,"['BTC ', 'ETH ', 'EOS ', 'ETC ', 'BCH ', 'XRP ', 'LTC ', 'QTUM ', 'DASH ', 'TRX ']",
+2018-08-16,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'ETC ', 'BCH ', 'LTC ', 'QTUM ', 'DASH ', 'TRX ']",
+2018-08-17,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'LTC ', 'QTUM ', 'DASH ', 'TRX ']",
+2018-08-18,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'DASH ', 'LTC ', 'ETC ', 'QTUM ', 'TRX ']",
+2018-08-19,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'QTUM ', 'DASH ', 'TRX ']",
+2018-08-20,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'LTC ', 'DASH ', 'QTUM ', 'TRX ']",
+2018-08-21,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'LTC ', 'DASH ', 'QTUM ', 'TRX ']",
+2018-08-22,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'LTC ', 'DASH ', 'ZEC ', 'QTUM ']",
+2018-08-23,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'DASH ', 'LTC ', 'ETC ', 'ZEC ', 'TRX ']",
+2018-08-24,"['BTC ', 'ETH ', 'EOS ', 'DASH ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'ZEC ', 'TRX ']",
+2018-08-25,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'ZEC ', 'NANO ']",
+2018-08-26,"['BTC ', 'ETH ', 'EOS ', 'DASH ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'ZEC ', 'TRX ']",
+2018-08-27,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'DASH ', 'LTC ', 'ETC ', 'TRX ', 'QTUM ']",
+2018-08-28,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'DASH ', 'TRX ', 'QTUM ']",
+2018-08-29,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'DASH ', 'XRP ', 'LTC ', 'ETC ', 'TRX ', 'ZEC ']",
+2018-08-30,"['BTC ', 'ETH ', 'EOS ', 'DASH ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'ZEC ', 'QTUM ']",
+2018-08-31,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'DASH ', 'DOGE ', 'ETC ', 'ZEC ']",
+2018-09-01,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'XRP ', 'ETC ', 'DOGE ', 'QTUM ']",
+2018-09-02,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'ETC ', 'LTC ', 'XRP ', 'DASH ', 'QTUM ', 'ZEC ']",
+2018-09-03,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'ZEC ', 'NEO ']",
+2018-09-04,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'TRX ', 'QTUM ']",
+2018-09-05,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'QTUM ', 'TRX ']",
+2018-09-06,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'DASH ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'QTUM ']",
+2018-09-07,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'DASH ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'ZEC ']",
+2018-09-08,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'ETC ', 'XRP ', 'TRX ', 'ZEC ']",
+2018-09-09,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'DASH ', 'ETC ', 'TRX ', 'ZEC ']",
+2018-09-10,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'TRX ', 'ZEC ']",
+2018-09-11,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'DASH ', 'ETC ', 'QTUM ', 'TRX ']",
+2018-09-12,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'DASH ', 'TRX ', 'ZEC ']",
+2018-09-13,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'DASH ', 'ETC ', 'TRX ', 'QTUM ']",
+2018-09-14,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'DASH ', 'ETC ', 'ZEC ', 'TRX ']",
+2018-09-15,"['BTC ', 'ETH ', 'EOS ', 'DASH ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'ZEC ']",
+2018-09-16,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'DASH ', 'ETC ', 'TRX ', 'ZEC ']",
+2018-09-17,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'DASH ', 'ETC ', 'ZEC ', 'TRX ']",
+2018-09-18,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'DASH ', 'ETC ', 'TRX ', 'ADA ']",
+2018-09-19,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'ETC ', 'TRX ', 'QTUM ']",
+2018-09-20,"['BTC ', 'XRP ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'TRX ', 'QTUM ', 'ETC ', 'ADA ']",
+2018-09-21,"['BTC ', 'XRP ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'TRX ', 'DASH ', 'ETC ', 'QTUM ']",
+2018-09-22,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'XLM ', 'LTC ', 'QTUM ', 'ETC ', 'DASH ']",
+2018-09-23,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'ZEC ', 'ETC ', 'XLM ']",
+2018-09-24,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'DASH ', 'TRX ', 'QTUM ']",
+2018-09-25,"['BTC ', 'XRP ', 'ETH ', 'BCH ', 'EOS ', 'LTC ', 'DASH ', 'ETC ', 'QTUM ', 'ZEC ']",
+2018-09-26,"['BTC ', 'ETH ', 'BCH ', 'XRP ', 'EOS ', 'LTC ', 'DASH ', 'QTUM ', 'ETC ', 'ZEC ']",
+2018-09-27,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'DASH ', 'QTUM ', 'NEO ', 'ZEC ']",
+2018-09-28,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'QTUM ', 'ETC ', 'ZEC ']",
+2018-09-29,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'ETC ', 'QTUM ', 'ZEC ']",
+2018-09-30,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'BCH ', 'DASH ', 'ETC ', 'NEO ', 'ZEC ']",
+2018-10-01,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'NEO ', 'ETC ', 'ZEC ']",
+2018-10-02,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'ETC ', 'ZEC ', 'QTUM ']",
+2018-10-03,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'ZEC ', 'QTUM ', 'TRX ']",
+2018-10-04,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'ETC ', 'ZEC ', 'QTUM ']",
+2018-10-05,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'TRX ', 'ZEC ', 'ETC ']",
+2018-10-06,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'BCH ', 'TRX ', 'DASH ', 'QTUM ', 'ETC ']",
+2018-10-07,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'TRX ', 'NEO ', 'ETC ', 'ZEC ']",
+2018-10-08,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'ZEC ', 'TRX ', 'NEO ', 'ETC ']",
+2018-10-09,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'DASH ', 'NEO ', 'ETC ', 'ZEC ']",
+2018-10-10,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'NEO ', 'TRX ', 'DASH ']",
+2018-10-11,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'NEO ', 'ETC ', 'DASH ', 'TRX ']",
+2018-10-12,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'TRX ', 'NEO ', 'ETC ', 'ZEC ']",
+2018-10-13,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'NEO ', 'DASH ', 'TRX ', 'ETC ']",
+2018-10-14,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'NEO ', 'ETC ', 'TRX ', 'QTUM ']",
+2018-10-15,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'NEO ', 'ZEC ', 'ETC ']",
+2018-10-16,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'BCH ', 'NEO ', 'QTUM ', 'DASH ', 'ETC ']",
+2018-10-17,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'NEO ', 'LTC ', 'DASH ', 'ETC ', 'TRX ']",
+2018-10-18,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'NEO ', 'DASH ', 'ETC ', 'TRX ']",
+2018-10-19,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'NEO ', 'DASH ', 'ZEC ', 'ETC ']",
+2018-10-20,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'NEO ', 'QTUM ', 'DASH ', 'ETC ']",
+2018-10-21,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'QTUM ', 'NEO ', 'DASH ']",
+2018-10-22,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'BCH ', 'NEO ', 'DASH ', 'ETC ', 'QTUM ']",
+2018-10-23,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'DASH ', 'NEO ', 'ETC ', 'ZEC ']",
+2018-10-24,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'DASH ', 'ETC ', 'QTUM ', 'ZEC ']",
+2018-10-25,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'DASH ', 'NEO ', 'ETC ', 'ZEC ']",
+2018-10-26,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'DASH ', 'ETC ', 'QTUM ', 'NEO ']",
+2018-10-27,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'ETC ', 'NEO ', 'DASH ', 'ZEC ']",
+2018-10-29,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'ETC ', 'DASH ', 'NEO ', 'QTUM ']",
+2018-10-30,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'DASH ', 'ETC ', 'NEO ', 'ZEC ']",
+2018-10-31,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'DASH ', 'NEO ', 'ETC ', 'ZEC ']",
+2018-11-01,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'DASH ', 'NEO ', 'ETC ', 'ZEC ']",
+2018-11-02,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'DASH ', 'NEO ', 'ETC ', 'QTUM ']",
+2018-11-03,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'NEO ', 'DASH ', 'ETC ', 'QTUM ']",
+2018-11-04,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'LTC ', 'XRP ', 'DASH ', 'NEO ', 'ETC ', 'QTUM ']",
+2018-11-05,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'XRP ', 'LTC ', 'DASH ', 'NEO ', 'ETC ', 'ZEC ']",
+2018-11-06,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'EOS ', 'LTC ', 'NEO ', 'DASH ', 'ETC ', 'QTUM ']",
+2018-11-07,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'XRP ', 'LTC ', 'QTUM ', 'DASH ', 'NEO ', 'ETC ']",
+2018-11-08,"['BTC ', 'ETH ', 'BCH ', 'XRP ', 'EOS ', 'LTC ', 'ZEC ', 'NEO ', 'DASH ', 'ETC ']",
+2018-11-09,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'XRP ', 'LTC ', 'DASH ', 'ETC ', 'NEO ', 'ZEC ']",
+2018-11-10,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'XRP ', 'LTC ', 'DASH ', 'NEO ', 'ETC ', 'ZEC ']",
+2018-11-11,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'DASH ', 'XRP ', 'ETC ', 'ZEC ', 'NEO ']",
+2018-11-12,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'XRP ', 'LTC ', 'DASH ', 'NEO ', 'ZEC ', 'ETC ']",
+2018-11-13,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'XRP ', 'LTC ', 'DASH ', 'NEO ', 'ZEC ', 'ETC ']",
+2018-11-14,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'QTUM ', 'NEO ', 'ZEC ']",
+2018-11-15,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'ETC ', 'DASH ', 'QTUM ', 'NEO ']",
+2018-11-16,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'DASH ', 'ETC ', 'NEO ', 'ZEC ']",
+2018-11-17,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'DASH ', 'ZEC ', 'NEO ', 'ETC ']",
+2018-11-18,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'BCH ', 'ZEC ', 'NEO ', 'ETC ', 'QTUM ']",
+2018-11-19,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'QTUM ', 'ETC ', 'NEO ', 'DASH ', 'XLM ']",
+2018-11-20,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'ETC ', 'QTUM ', 'NEO ', 'XLM ', 'BCH ']",
+2018-11-21,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'QTUM ', 'ETC ', 'DASH ', 'NEO ', 'ZEC ']",
+2018-11-22,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'NEO ', 'QTUM ', 'ETC ', 'DASH ', 'ZEC ']",
+2018-11-23,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'DASH ', 'QTUM ', 'ETC ', 'NEO ', 'ZEC ']",
+2018-11-24,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'ETC ', 'QTUM ', 'DASH ', 'NEO ', 'ZEC ']",
+2018-11-25,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'DASH ', 'ETC ', 'QTUM ', 'NEO ', 'BCH ']",
+2018-11-26,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'BCH ', 'ETC ', 'QTUM ', 'NEO ', 'XLM ']",
+2018-11-27,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'ZEC ', 'ETC ', 'BCH ', 'QTUM ', 'DASH ']",
+2018-11-28,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'ETC ', 'DASH ', 'ZEC ', 'NEO ', 'QTUM ']",
+2018-11-29,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'ETC ', 'TRX ', 'ZEC ', 'NEO ', 'DASH ']",
+2018-11-30,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'ETC ', 'DASH ', 'ZEC ', 'NEO ', 'QTUM ']",
+2018-12-01,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'ZEC ', 'DASH ', 'ETC ', 'QTUM ', 'NEO ']",
+2018-12-02,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'DASH ', 'ETC ', 'ZEC ', 'QTUM ', 'NEO ']",
+2018-12-03,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'ETC ', 'DASH ', 'ZEC ', 'QTUM ', 'NEO ']",
+2018-12-04,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'ETC ', 'DASH ', 'NEO ', 'ZEC ', 'QTUM ']",
+2018-12-05,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'DASH ', 'ZEC ', 'NEO ', 'ETC ', 'QTUM ']",
+2018-12-06,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'ZEC ', 'DASH ', 'ETC ', 'XLM ', 'QTUM ']",
+2018-12-07,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'ETC ', 'QTUM ', 'BCH ', 'ZEC ', 'DASH ']",
+2018-12-08,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'ETC ', 'NEO ', 'XLM ', 'DASH ', 'QTUM ']",
+2018-12-09,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'XLM ', 'DASH ', 'ZEC ', 'QTUM ', 'NEO ']",
+2018-12-10,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'DASH ', 'ZEC ', 'NEO ', 'ETC ', 'XLM ']",
+2018-12-11,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'XLM ', 'ZEC ', 'DASH ', 'QTUM ', 'ETC ']",
+2018-12-12,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'ZEC ', 'NEO ', 'DASH ', 'QTUM ', 'XLM ']",
+2018-12-13,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'QTUM ', 'DASH ', 'NEO ', 'ZEC ', 'ETC ']",
+2018-12-14,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'ZEC ', 'QTUM ', 'ETC ', 'NEO ']",
+2018-12-15,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'DASH ', 'ZEC ', 'XLM ', 'ETC ', 'BCH ']",
+2018-12-16,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'ZEC ', 'DASH ', 'NEO ', 'BCH ', 'ETC ']",
+2018-12-17,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'QTUM ', 'DASH ', 'ZEC ', 'ETC ', 'BCH ']",
+2018-12-18,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'QTUM ', 'DASH ', 'ZEC ', 'ETC ']",
+2018-12-19,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'QTUM ', 'TRX ', 'ETC ', 'DASH ']",
+2018-12-20,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'XRP ', 'LTC ', 'QTUM ', 'ETC ', 'DASH ', 'NEO ']",
+2018-12-21,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'XRP ', 'LTC ', 'TRX ', 'QTUM ', 'NEO ', 'DASH ']",
+2018-12-22,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'XRP ', 'LTC ', 'TRX ', 'NEO ', 'DASH ', 'QTUM ']",
+2018-12-23,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'QTUM ', 'NEO ', 'ETC ', 'TRX ']",
+2018-12-24,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'BCH ', 'LTC ', 'QTUM ', 'NEO ', 'ETC ', 'TRX ']",
+2018-12-25,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'ETC ', 'QTUM ', 'TRX ', 'NEO ']",
+2018-12-26,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'ETC ', 'QTUM ', 'DASH ', 'TRX ']",
+2018-12-27,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'ETC ', 'DASH ', 'ZEC ', 'QTUM ']",
+2018-12-28,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'ETC ', 'ZEC ', 'TRX ', 'QTUM ']",
+2018-12-29,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'ETC ', 'QTUM ', 'ZEC ', 'NEO ']",
+2018-12-30,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'ETC ', 'NEO ', 'DASH ', 'QTUM ']",
+2018-12-31,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'ZEC ', 'DASH ', 'NEO ', 'XLM ']",
+2019-01-01,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'ZEC ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-01-02,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'QTUM ', 'ETC ', 'NEO ', 'XLM ']",
+2019-01-03,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'TRX ', 'DASH ', 'ETC ', 'QTUM ']",
+2019-01-04,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'TRX ', 'ZEC ', 'QTUM ', 'ETC ']",
+2019-01-05,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'ZEC ', 'TRX ', 'QTUM ', 'DASH ']",
+2019-01-06,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'ZEC ', 'BCH ', 'QTUM ', 'NEO ', 'TRX ']",
+2019-01-07,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'ZEC ', 'BCH ', 'TRX ', 'QTUM ', 'ETC ']",
+2019-01-08,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'TRX ', 'NEO ', 'BCH ', 'ETC ', 'QTUM ']",
+2019-01-09,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'TRX ', 'QTUM ', 'NEO ', 'BCH ', 'ZEC ']",
+2019-01-10,"['BTC ', 'ETH ', 'EOS ', 'TRX ', 'XRP ', 'LTC ', 'BCH ', 'QTUM ', 'NEO ', 'ETC ']",
+2019-01-11,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'TRX ', 'BCH ', 'ZEC ', 'ETC ', 'NEO ']",
+2019-01-12,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'TRX ', 'BCH ', 'QTUM ', 'ZEC ', 'DASH ']",
+2019-01-13,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'TRX ', 'QTUM ', 'ZEC ', 'DASH ']",
+2019-01-14,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'TRX ', 'BCH ', 'ZEC ', 'QTUM ', 'DASH ']",
+2019-01-15,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'TRX ', 'ZEC ', 'BCH ', 'DASH ', 'NEO ']",
+2019-01-16,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'ZEC ', 'TRX ', 'BCH ', 'DASH ', 'QTUM ']",
+2019-01-17,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'QTUM ', 'TRX ', 'BCH ', 'DASH ', 'ZEC ']",
+2019-01-18,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'QTUM ', 'BCH ', 'DASH ', 'ZEC ', 'TRX ']",
+2019-01-19,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'QTUM ', 'BCH ', 'ZEC ', 'DASH ', 'TRX ']",
+2019-01-20,"['BTC ', 'ETH ', 'EOS ', 'ZEC ', 'LTC ', 'XRP ', 'QTUM ', 'BCH ', 'DASH ', 'NEO ']",
+2019-01-21,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'TRX ', 'BCH ', 'ZEC ', 'DASH ', 'QTUM ']",
+2019-01-22,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'TRX ', 'QTUM ', 'DASH ', 'NEO ']",
+2019-01-23,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'TRX ', 'DASH ', 'ZEC ', 'ETC ']",
+2019-01-24,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'TRX ', 'ZEC ', 'DASH ', 'QTUM ']",
+2019-01-25,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'BCH ', 'DASH ', 'QTUM ', 'ZEC ']",
+2019-01-26,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'BCH ', 'ZEC ', 'DASH ', 'QTUM ']",
+2019-01-27,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'TRX ', 'XRP ', 'BCH ', 'ZEC ', 'DASH ', 'QTUM ']",
+2019-01-28,"['BTC ', 'ETH ', 'DASH ', 'EOS ', 'LTC ', 'XRP ', 'ZEC ', 'TRX ', 'BCH ', 'QTUM ']",
+2019-01-29,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'TRX ', 'BCH ', 'DASH ', 'XLM ', 'ETC ']",
+2019-01-30,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'TRX ', 'XLM ', 'ETC ', 'DASH ']",
+2019-01-31,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'TRX ', 'BCH ', 'ZEC ', 'QTUM ', 'ETC ']",
+2019-02-01,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'BCH ', 'QTUM ', 'DASH ', 'ETC ']",
+2019-02-02,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'TRX ', 'ZEC ', 'DASH ']",
+2019-02-03,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'DASH ', 'ETC ', 'ZEC ']",
+2019-02-04,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'BCH ', 'DASH ', 'ZEC ', 'ETC ']",
+2019-02-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'BCH ', 'DASH ', 'ZEC ', 'ETC ']",
+2019-02-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'DASH ', 'ETC ', 'XLM ']",
+2019-02-07,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'QTUM ', 'ETC ', 'TRX ', 'DASH ']",
+2019-02-08,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'QTUM ', 'DASH ']",
+2019-02-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'DASH ', 'ZEC ']",
+2019-02-10,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'ZEC ', 'DASH ']",
+2019-02-11,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'QTUM ', 'DASH ', 'TRX ', 'ETC ']",
+2019-02-12,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'DASH ', 'BCH ', 'ZEC ', 'ETC ', 'NEO ']",
+2019-02-13,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'DASH ', 'ZEC ', 'QTUM ', 'ETC ']",
+2019-02-14,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ZEC ', 'XLM ', 'ETC ', 'DASH ']",
+2019-02-15,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'ZEC ', 'QTUM ', 'DASH ', 'ETC ', 'BCH ']",
+2019-02-16,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'DASH ', 'BCH ', 'NEO ', 'QTUM ']",
+2019-02-17,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'NEO ', 'BCH ', 'DASH ', 'ETC ', 'ZEC ']",
+2019-02-18,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'QTUM ', 'DASH ', 'ETC ', 'NEO ']",
+2019-02-19,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'ETC ', 'QTUM ', 'ZEC ', 'DASH ']",
+2019-02-20,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'ETC ', 'DASH ', 'QTUM ', 'NEO ']",
+2019-02-21,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'DASH ', 'NEO ', 'ETC ', 'QTUM ']",
+2019-02-22,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'DASH ', 'ETC ', 'ZEC ', 'NEO ']",
+2019-02-23,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'QTUM ', 'BCH ', 'NEO ', 'DASH ', 'ETC ']",
+2019-02-24,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'NEO ', 'QTUM ', 'TRX ', 'ETC ']",
+2019-02-25,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'NEO ', 'DASH ', 'ETC ', 'QTUM ']",
+2019-02-26,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'NEO ', 'BCH ', 'DASH ', 'QTUM ', 'ETC ']",
+2019-02-27,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'NEO ', 'BCH ', 'DASH ', 'QTUM ', 'ETC ']",
+2019-02-28,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'DASH ', 'NEO ', 'QTUM ', 'ZEC ']",
+2019-03-01,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'NEO ', 'BCH ', 'DASH ', 'QTUM ', 'ETC ']",
+2019-03-02,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'NEO ', 'BCH ', 'DASH ', 'ETC ', 'TRX ']",
+2019-03-03,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'DASH ', 'NEO ', 'BCH ', 'ETC ', 'ZEC ']",
+2019-03-04,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'NEO ', 'BCH ', 'DASH ', 'TRX ', 'QTUM ']",
+2019-03-05,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'NEO ', 'BCH ', 'DASH ', 'ETC ', 'BNB ']",
+2019-03-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'NEO ', 'BCH ', 'DASH ', 'ETC ', 'QTUM ']",
+2019-03-07,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'NEO ', 'BCH ', 'DASH ', 'BNB ', 'ETC ']",
+2019-03-08,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'NEO ', 'BCH ', 'QTUM ', 'ZEC ', 'DASH ']",
+2019-03-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'NEO ', 'QTUM ', 'DASH ', 'ZEC ']",
+2019-03-10,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'NEO ', 'BCH ', 'DASH ', 'ZEC ', 'ETC ']",
+2019-03-11,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'NEO ', 'QTUM ', 'BCH ', 'ZEC ', 'DASH ']",
+2019-03-12,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'DASH ', 'NEO ', 'ZEC ', 'BCH ', 'QTUM ']",
+2019-03-13,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'QTUM ', 'NEO ', 'DASH ', 'ZEC ', 'BCH ']",
+2019-03-14,"['BTC ', 'ETH ', 'QTUM ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'NEO ', 'DASH ', 'ZEC ']",
+2019-03-15,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'DASH ', 'NEO ', 'QTUM ', 'ETC ']",
+2019-03-16,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'NEO ', 'DASH ', 'QTUM ', 'ETC ']",
+2019-03-17,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'NEO ', 'QTUM ', 'DASH ', 'ETC ']",
+2019-03-18,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'NEO ', 'DASH ', 'XLM ']",
+2019-03-19,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'BCH ', 'DASH ', 'NEO ', 'XLM ']",
+2019-03-20,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'QTUM ', 'BCH ', 'NEO ', 'XLM ', 'DASH ']",
+2019-03-21,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'XLM ', 'NEO ', 'DASH ']",
+2019-03-22,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'DASH ', 'NEO ', 'ETC ', 'XLM ']",
+2019-03-23,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'DASH ', 'NEO ', 'XLM ']",
+2019-03-24,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'BNB ', 'NEO ', 'TRX ', 'DASH ']",
+2019-03-25,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'NEO ', 'DASH ', 'TRX ', 'XLM ']",
+2019-03-26,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'NEO ', 'DASH ', 'XLM ', 'TRX ']",
+2019-03-27,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'XLM ', 'NEO ', 'DASH ', 'TRX ']",
+2019-03-28,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'DASH ', 'QTUM ', 'NEO ', 'XLM ']",
+2019-03-29,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'NEO ', 'XLM ', 'TRX ', 'DASH ']",
+2019-03-30,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'NEO ', 'XLM ', 'DASH ', 'TRX ']",
+2019-03-31,"['BTC ', 'BTC ', 'ETH ', 'ETH ', 'EOS ', 'LTC ', 'EOS ', 'LTC ', 'XRP ', 'XRP ']",
+2019-04-01,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'TRX ', 'XLM ', 'NEO ', 'ETC ']",
+2019-04-02,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'NEO ', 'TRX ', 'ETC ', 'ZEC ']",
+2019-04-03,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'NEO ', 'TRX ', 'ETC ', 'DASH ']",
+2019-04-04,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'XLM ', 'ETC ', 'NEO ']",
+2019-04-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'ZEC ', 'XLM ']",
+2019-04-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'XLM ']",
+2019-04-07,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'ZEC ', 'XLM ']",
+2019-04-08,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'XLM ', 'ZEC ']",
+2019-04-09,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'ZEC ', 'XLM ']",
+2019-04-10,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'XLM ', 'ZEC ']",
+2019-04-11,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'XLM ', 'DASH ']",
+2019-04-12,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'XLM ', 'DASH ']",
+2019-04-13,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'XLM ']",
+2019-04-14,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'XLM ']",
+2019-04-15,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'DASH ', 'TRX ', 'XLM ']",
+2019-04-16,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'XLM ', 'DASH ']",
+2019-04-17,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'BNB ', 'TRX ', 'DASH ']",
+2019-04-18,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'BNB ', 'ETC ', 'TRX ', 'XLM ']",
+2019-04-19,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'BNB ', 'DASH ']",
+2019-04-20,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'BNB ', 'DASH ']",
+2019-04-21,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'BNB ', 'DASH ']",
+2019-04-22,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'ZEC ', 'DASH ']",
+2019-04-23,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-04-24,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-04-25,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-04-26,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-04-27,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2019-04-28,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-04-29,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-04-30,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2019-05-01,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-05-02,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-05-03,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-05-04,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-05-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-05-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'ZEC ', 'NEO ']",
+2019-05-07,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2019-05-08,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-05-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-05-10,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'ZEC ', 'NEO ']",
+2019-05-11,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'ZEC ', 'NEO ']",
+2019-05-12,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'ZEC ', 'NEO ']",
+2019-05-13,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'XLM ', 'ZEC ']",
+2019-05-14,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-05-15,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'ETC ', 'TRX ', 'ZEC ', 'XLM ']",
+2019-05-16,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'ZEC ', 'TRX ', 'NEO ']",
+2019-05-17,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'BNB ', 'XLM ']",
+2019-05-18,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'XLM ', 'ZEC ']",
+2019-05-19,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-05-20,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'BNB ', 'TRX ', 'ETC ', 'NEO ']",
+2019-05-21,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'BNB ', 'NEO ']",
+2019-05-22,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'BNB ', 'ETC ', 'XLM ']",
+2019-05-23,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'BNB ', 'ETC ', 'DASH ']",
+2019-05-24,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'BNB ', 'ETC ', 'DASH ']",
+2019-05-25,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'DASH ', 'ETC ', 'BNB ']",
+2019-05-26,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'DASH ', 'ETC ', 'BNB ']",
+2019-05-27,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'ZEC ', 'BNB ']",
+2019-05-28,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'NEO ', 'ETC ', 'BNB ']",
+2019-05-29,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-05-30,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-05-31,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-06-01,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-06-02,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-06-03,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-06-04,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-06-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'XLM ', 'BNB ']",
+2019-06-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-06-07,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-06-08,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'TRX ', 'NEO ', 'XLM ']",
+2019-06-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-06-10,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-06-11,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'BNB ', 'NEO ']",
+2019-06-12,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-06-13,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'BNB ', 'ETC ', 'NEO ']",
+2019-06-14,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-06-15,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'TRX ', 'NEO ', 'ZEC ']",
+2019-06-16,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'BNB ', 'NEO ']",
+2019-06-17,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'ETC ', 'TRX ', 'ZEC ', 'BNB ']",
+2019-06-18,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'BNB ', 'ZEC ']",
+2019-06-19,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'BNB ', 'ETC ', 'TRX ', 'NEO ']",
+2019-06-20,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'ZEC ', 'BNB ']",
+2019-06-21,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'ETC ', 'NEO ', 'TRX ', 'ZEC ']",
+2019-06-22,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'ZEC ']",
+2019-06-23,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-06-24,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'NEO ', 'ETC ', 'QTUM ']",
+2019-06-25,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-06-26,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'ZEC ']",
+2019-06-27,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-06-28,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'LINK ', 'ETC ', 'NEO ']",
+2019-06-29,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-06-30,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-07-01,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-07-02,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-07-03,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'XLM ']",
+2019-07-04,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-07-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'TRX ', 'NEO ', 'QTUM ']",
+2019-07-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-07-07,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-07-08,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-07-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-07-10,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-07-11,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'XLM ', 'NEO ']",
+2019-07-12,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'NEO ', 'TRX ', 'QTUM ']",
+2019-07-13,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'ZEC ']",
+2019-07-14,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'ZEC ']",
+2019-07-15,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'BNB ', 'NEO ']",
+2019-07-16,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'BNB ', 'TRX ', 'NEO ']",
+2019-07-17,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'BNB ', 'NEO ', 'ETC ', 'TRX ']",
+2019-07-18,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'BNB ', 'NEO ']",
+2019-07-19,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-07-20,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-07-21,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'BNB ', 'NEO ']",
+2019-07-22,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-07-23,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-07-24,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-07-25,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2019-07-26,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2019-07-27,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2019-07-28,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2019-07-29,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'QTUM ']",
+2019-07-30,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-07-31,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'BNB ', 'NEO ']",
+2019-08-01,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2019-08-02,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'QTUM ']",
+2019-08-03,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-08-04,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'ZEC ']",
+2019-08-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'ZEC ']",
+2019-08-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'BNB ', 'NEO ']",
+2019-08-07,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'BNB ', 'NEO ']",
+2019-08-08,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-08-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-08-10,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'BNB ', 'NEO ']",
+2019-08-11,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'BNB ', 'NEO ']",
+2019-08-12,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'BNB ', 'NEO ']",
+2019-08-13,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-08-14,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-08-15,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-08-16,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-08-17,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-08-18,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'TRX ', 'BNB ', 'NEO ']",
+2019-08-19,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-08-20,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'QTUM ']",
+2019-08-21,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'ETC ', 'BCH ', 'XRP ', 'TRX ', 'NEO ', 'QTUM ']",
+2019-08-22,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'NEO ', 'DASH ']",
+2019-08-23,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'QTUM ']",
+2019-08-24,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'QTUM ']",
+2019-08-25,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'BNB ', 'NEO ']",
+2019-08-26,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-08-27,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-08-28,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-08-29,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-08-30,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2019-08-31,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-09-01,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'BNB ', 'NEO ']",
+2019-09-02,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2019-09-03,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2019-09-04,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'BNB ', 'NEO ']",
+2019-09-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-09-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'BNB ']",
+2019-09-07,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-09-08,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-09-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-09-10,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-09-11,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2019-09-12,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2019-09-13,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2019-09-14,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-09-15,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-09-16,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-09-17,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'XLM ', 'BNB ']",
+2019-09-18,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'XLM ', 'DASH ']",
+2019-09-19,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'XLM ', 'NEO ']",
+2019-09-20,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-09-21,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-09-22,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-09-23,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'ZEC ', 'NEO ']",
+2019-09-24,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'ZEC ', 'NEO ']",
+2019-09-25,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'XLM ']",
+2019-09-26,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-09-27,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-09-28,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-09-29,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-09-30,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-10-01,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-10-02,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-10-03,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-10-04,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-10-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-10-06,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-10-07,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'TRX ', 'ETC ', 'DASH ', 'LINK ']",
+2019-10-08,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'LINK ', 'BNB ']",
+2019-10-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-10-10,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-10-11,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-10-12,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'BNB ', 'NEO ']",
+2019-10-13,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'BNB ', 'NEO ']",
+2019-10-14,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'BNB ', 'NEO ']",
+2019-10-15,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-10-16,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'XLM ', 'BNB ']",
+2019-10-17,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'XLM ', 'NEO ']",
+2019-10-18,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'XLM ', 'BNB ']",
+2019-10-19,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'XLM ', 'BNB ']",
+2019-10-20,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-10-21,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'BNB ', 'NEO ']",
+2019-10-22,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-10-23,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'XLM ', 'NEO ']",
+2019-10-24,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'BNB ', 'NEO ']",
+2019-10-25,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'ZEC ']",
+2019-10-26,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'NEO ', 'ETC ', 'QTUM ']",
+2019-10-28,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'NEO ', 'ETC ', 'QTUM ']",
+2019-10-29,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'BNB ']",
+2019-10-30,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'NEO ', 'ETC ', 'DASH ']",
+2019-10-31,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-11-01,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-11-02,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'NEO ', 'ETC ', 'XLM ']",
+2019-11-03,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-11-04,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'XLM ']",
+2019-11-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'XLM ', 'ETC ', 'QTUM ']",
+2019-11-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'QTUM ', 'NEO ']",
+2019-11-07,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-11-08,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'QTUM ', 'NEO ']",
+2019-11-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'QTUM ']",
+2019-11-10,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'QTUM ']",
+2019-11-11,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-11-12,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'NEO ', 'ETC ', 'DASH ']",
+2019-11-13,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'NEO ', 'ETC ', 'DASH ']",
+2019-11-14,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-11-15,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-11-16,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-11-17,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-11-18,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-11-19,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-11-20,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-11-21,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-11-22,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-11-23,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-11-24,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'BCH ', 'TRX ', 'XLM ', 'ETC ', 'NEO ']",
+2019-11-25,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'XLM ', 'NEO ']",
+2019-11-26,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-11-27,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'TRX ', 'BCH ', 'XRP ', 'ETC ', 'NEO ', 'DASH ']",
+2019-11-28,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'ETC ', 'DASH ', 'NEO ']",
+2019-11-29,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-11-30,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-01,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'ETC ', 'DASH ', 'NEO ']",
+2019-12-02,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-12-03,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-04,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-05,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-07,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-08,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'QTUM ', 'NEO ']",
+2019-12-10,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-11,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-12,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-13,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-14,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-15,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-16,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-17,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-18,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-19,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-20,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-21,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-22,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-23,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-24,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-25,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-26,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2019-12-27,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-28,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-29,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-30,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2019-12-31,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2020-01-01,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2020-01-02,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2020-01-03,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'QTUM ']",
+2020-01-04,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2020-01-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2020-01-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2020-01-07,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2020-01-08,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2020-01-09,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-01-10,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-01-11,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-12,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2020-01-13,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2020-01-14,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-15,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'DASH ', 'XRP ', 'TRX ', 'ZEC ']",
+2020-01-16,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'DASH ', 'TRX ', 'NEO ']",
+2020-01-17,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'ETC ', 'XRP ', 'DASH ', 'TRX ', 'ZEC ']",
+2020-01-18,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-19,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-20,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'XLM ']",
+2020-01-21,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-22,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-23,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-24,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-25,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-26,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-27,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-28,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-29,"['BTC ', 'ETH ', 'ETC ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-01-30,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'ZEC ']",
+2020-01-31,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'ZEC ']",
+2020-02-01,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-02,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-03,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-04,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'EOS ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-05,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-06,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-07,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-08,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-09,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-10,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'NEO ', 'DASH ']",
+2020-02-11,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-12,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-13,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-02-14,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'EOS ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-02-15,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-02-16,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-02-17,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-02-18,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-02-19,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-02-20,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'NEO ', 'DASH ']",
+2020-02-21,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-22,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-23,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-24,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2020-02-25,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2020-02-26,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-27,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-02-28,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2020-02-29,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2020-03-01,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-02,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-03-03,"['BTC ', 'BCH ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-03-04,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-03-05,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-03-06,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-03-07,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'DASH ', 'ETC ', 'TRX ', 'NEO ']",
+2020-03-08,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-03-09,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'LINK ']",
+2020-03-10,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-03-11,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-03-12,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'LINK ']",
+2020-03-13,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'LINK ', 'DASH ']",
+2020-03-14,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'LINK ']",
+2020-03-15,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-03-16,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'LINK ', 'DASH ']",
+2020-03-17,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-03-18,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-19,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-20,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-21,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-22,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-23,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-24,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-25,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-26,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-27,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'XRP ', 'EOS ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-28,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'XRP ', 'EOS ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-29,"['BTC ', 'BTC ', 'ETH ', 'ETH ', 'LTC ', 'BCH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ']",
+2020-03-30,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-03-31,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-04-01,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-04-02,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-04-03,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-04-04,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-04-05,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'LTC ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'ZEC ']",
+2020-04-06,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'ZEC ']",
+2020-04-07,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'LINK ']",
+2020-04-08,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'LINK ']",
+2020-04-09,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'LINK ']",
+2020-04-10,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'LINK ']",
+2020-04-11,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'LINK ']",
+2020-04-12,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'LINK ']",
+2020-04-13,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'BNB ']",
+2020-04-14,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'ZEC ']",
+2020-04-15,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'ZEC ']",
+2020-04-16,"['ADA ', 'ADX ', 'AE ', 'ANT ', 'ARDR ', 'ARK ', 'BAT ', 'BCH ', 'BCN ', 'BNB ']",
+2020-04-17,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'ZEC ']",
+2020-04-18,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'ZEC ', 'DASH ']",
+2020-04-19,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'ZEC ', 'DASH ']",
+2020-04-20,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'ZEC ', 'DASH ']",
+2020-04-21,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'ZEC ']",
+2020-04-22,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'XLM ', 'DASH ']",
+2020-04-23,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'XLM ']",
+2020-04-24,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'ZEC ']",
+2020-04-25,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-04-26,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'XLM ']",
+2020-04-27,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'XLM ', 'DASH ']",
+2020-04-28,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'XLM ']",
+2020-04-29,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'NEO ']",
+2020-04-30,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'XLM ', 'NEO ']",
+2020-05-01,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'XLM ', 'NEO ']",
+2020-05-02,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'XLM ', 'NEO ']",
+2020-05-03,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'NEO ', 'DASH ']",
+2020-05-04,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'NEO ', 'DASH ']",
+2020-05-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'NEO ', 'DASH ']",
+2020-05-06,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-05-07,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-05-08,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-05-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-05-10,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'DASH ']",
+2020-05-11,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'XLM ', 'DASH ']",
+2020-05-12,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'XLM ', 'DASH ']",
+2020-05-13,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'XLM ', 'NEO ']",
+2020-05-14,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'NEO ', 'XLM ']",
+2020-05-15,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'NEO ']",
+2020-05-16,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2020-05-17,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'XLM ']",
+2020-05-18,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'NEO ']",
+2020-05-19,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'XLM ']",
+2020-05-20,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'XLM ']",
+2020-05-21,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'OMG ', 'QTUM ']",
+2020-05-22,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'TRX ', 'XRP ', 'ETC ', 'DASH ', 'QTUM ']",
+2020-05-23,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'TRX ', 'XRP ', 'ETC ', 'DASH ', 'QTUM ']",
+2020-05-24,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'TRX ', 'DASH ', 'XLM ']",
+2020-05-25,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'QTUM ']",
+2020-05-26,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'XLM ']",
+2020-05-27,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'XLM ']",
+2020-05-28,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'ETC ', 'XRP ', 'TRX ', 'DASH ', 'XLM ']",
+2020-05-29,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'DASH ', 'ADA ']",
+2020-05-30,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'ADA ', 'XLM ']",
+2020-05-31,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'TRX ', 'XRP ', 'ETC ', 'NEO ', 'ADA ']",
+2020-06-01,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'XLM ', 'NEO ']",
+2020-06-02,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'TRX ', 'XRP ', 'ETC ', 'XLM ', 'ADA ']",
+2020-06-03,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'TRX ', 'XRP ', 'ETC ', 'XLM ', 'ADA ']",
+2020-06-04,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'TRX ', 'XRP ', 'ETC ', 'XLM ', 'DASH ']",
+2020-06-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'ETC ', 'XLM ', 'DASH ']",
+2020-06-06,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'TRX ', 'XRP ', 'ETC ', 'XLM ', 'DASH ']",
+2020-06-07,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'TRX ', 'XRP ', 'ETC ', 'DASH ', 'XLM ']",
+2020-06-08,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'TRX ', 'XRP ', 'ETC ', 'XLM ', 'NEO ']",
+2020-06-09,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'TRX ', 'XRP ', 'ETC ', 'XLM ', 'DASH ']",
+2020-06-10,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'ETC ', 'XLM ', 'DASH ']",
+2020-06-11,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'ETC ', 'XLM ', 'DASH ']",
+2020-06-12,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'TRX ', 'BCH ', 'XRP ', 'ETC ', 'DASH ', 'XLM ']",
+2020-06-13,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'TRX ', 'BCH ', 'XRP ', 'ETC ', 'XLM ', 'DASH ']",
+2020-06-14,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'ETC ', 'XLM ', 'NEO ']",
+2020-06-15,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'TRX ', 'XRP ', 'ETC ', 'XLM ', 'DASH ']",
+2020-06-16,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'XLM ', 'DASH ']",
+2020-06-17,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'XLM ', 'NEO ']",
+2020-06-18,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'XLM ', 'NEO ']",
+2020-06-19,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'XLM ', 'DASH ']",
+2020-06-20,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'TRX ', 'XRP ', 'ETC ', 'XLM ', 'NEO ']",
+2020-06-21,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'XLM ', 'NEO ']",
+2020-06-22,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'EOS ', 'TRX ', 'ETC ', 'LINK ', 'ZEC ']",
+2020-06-23,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'LINK ', 'ZEC ']",
+2020-06-24,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'LINK ', 'XLM ']",
+2020-06-25,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'LINK ', 'XLM ']",
+2020-06-26,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'LINK ', 'NEO ']",
+2020-06-27,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'LINK ', 'NEO ']",
+2020-06-28,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'LINK ', 'XLM ']",
+2020-06-29,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'EOS ', 'TRX ', 'ETC ', 'XLM ', 'LINK ']",
+2020-06-30,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'EOS ', 'TRX ', 'ETC ', 'ADA ', 'LINK ']",
+2020-07-01,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'EOS ', 'TRX ', 'QTUM ', 'LINK ', 'ETC ']",
+2020-07-02,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ADA ', 'ETC ', 'LINK ']",
+2020-07-03,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'ADA ', 'LINK ']",
+2020-07-04,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'TRX ', 'ETC ', 'QTUM ', 'LINK ']",
+2020-07-05,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'TRX ', 'ETC ', 'LINK ', 'QTUM ']",
+2020-07-06,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'LINK ', 'TRX ', 'ETC ', 'ADA ']",
+2020-07-07,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'DOGE ', 'ADA ', 'LINK ', 'TRX ']",
+2020-07-08,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'ETC ', 'XLM ', 'TRX ', 'LINK ']",
+2020-07-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'LINK ', 'TRX ', 'XLM ']",
+2020-07-10,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'XLM ', 'ETC ', 'TRX ', 'LINK ']",
+2020-07-11,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'LINK ', 'BCH ', 'XRP ', 'ETC ', 'TRX ', 'XLM ']",
+2020-07-12,"['BTC ', 'ETH ', 'LTC ', 'LINK ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'ADA ', 'TRX ']",
+2020-07-13,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'LINK ', 'BCH ', 'ETC ', 'ADA ', 'TRX ']",
+2020-07-14,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'LINK ', 'XRP ', 'BCH ', 'ETC ', 'XLM ', 'TRX ']",
+2020-07-15,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'LINK ', 'XRP ', 'ETC ', 'XLM ', 'ADA ']",
+2020-07-16,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'LINK ', 'ETC ', 'XLM ', 'QTUM ']",
+2020-07-17,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'LINK ', 'ETC ', 'TRX ', 'QTUM ']",
+2020-07-18,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'LINK ', 'ETC ', 'TRX ', 'QTUM ']",
+2020-07-19,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'LINK ', 'ETC ', 'TRX ', 'QTUM ']",
+2020-07-20,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'LINK ', 'ETC ', 'TRX ', 'QTUM ']",
+2020-07-21,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'LINK ', 'ETC ', 'TRX ', 'QTUM ']",
+2020-07-22,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'LINK ', 'ETC ', 'TRX ', 'XLM ']",
+2020-07-23,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'ETC ', 'LINK ', 'TRX ', 'BNB ']",
+2020-07-24,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'ADA ', 'LINK ', 'TRX ']",
+2020-07-25,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ADA ', 'ETC ', 'LINK ', 'TRX ']",
+2020-07-26,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'LINK ', 'ADA ', 'TRX ']",
+2020-07-27,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'ETC ', 'ADA ', 'LINK ', 'TRX ']",
+2020-07-28,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'LINK ', 'TRX ', 'ADA ']",
+2020-07-29,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'LINK ', 'TRX ', 'ADA ']",
+2020-07-30,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'ETC ', 'LINK ', 'TRX ', 'ZEC ']",
+2020-07-31,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'ETC ', 'LINK ', 'ZEC ', 'TRX ']",
+2020-08-01,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'BCH ', 'LINK ', 'ETC ', 'TRX ', 'ZEC ']",
+2020-08-02,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'ETC ', 'TRX ', 'ZEC ']",
+2020-08-03,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'LINK ', 'ETC ', 'TRX ', 'QTUM ']",
+2020-08-04,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'LINK ', 'ETC ', 'ZEC ', 'TRX ']",
+2020-08-05,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'LINK ', 'ETC ', 'ZEC ', 'DASH ']",
+2020-08-06,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'EOS ', 'LTC ', 'LINK ', 'ETC ', 'TRX ', 'ADA ']",
+2020-08-07,"['BTC ', 'ETH ', 'LINK ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'ETC ', 'ZEC ', 'TRX ']",
+2020-08-08,"['BTC ', 'ETH ', 'LINK ', 'BCH ', 'EOS ', 'LTC ', 'XRP ', 'ETC ', 'ADA ', 'ZEC ']",
+2020-08-09,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'LINK ', 'BCH ', 'ETC ', 'TRX ', 'ZEC ']",
+2020-08-10,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'BCH ', 'LINK ', 'TRX ', 'ETC ', 'ADA ']",
+2020-08-11,"['BTC ', 'ETH ', 'LINK ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'ETC ', 'ZEC ', 'TRX ']",
+2020-08-12,"['BTC ', 'ETH ', 'LINK ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'ZEC ']",
+2020-08-13,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'LINK ', 'TRX ', 'ETC ', 'QTUM ']",
+2020-08-14,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'LINK ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'QTUM ']",
+2020-08-15,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'LINK ', 'TRX ', 'ETC ', 'OMG ']",
+2020-08-16,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'LINK ', 'TRX ', 'ETC ', 'OMG ']",
+2020-08-17,"['BTC ', 'ETH ', 'LTC ', 'LINK ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'BAT ']",
+2020-08-18,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'LINK ', 'XRP ', 'BCH ', 'TRX ', 'ETC ', 'OMG ']",
+2020-08-19,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'OMG ', 'XRP ', 'LINK ', 'BCH ', 'TRX ', 'QTUM ']",
+2020-08-20,"['BTC ', 'ETH ', 'OMG ', 'EOS ', 'LTC ', 'LINK ', 'XRP ', 'BCH ', 'QTUM ', 'ZRX ']",
+2020-08-21,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'LINK ', 'OMG ', 'XRP ', 'BCH ', 'TRX ', 'QTUM ']",
+2020-08-22,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'OMG ', 'LINK ', 'XRP ', 'BCH ', 'TRX ', 'QTUM ']",
+2020-08-23,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'LINK ', 'OMG ', 'TRX ', 'ETC ']",
+2020-08-24,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'LINK ', 'OMG ', 'NEO ', 'TRX ']",
+2020-08-25,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'LINK ', 'XRP ', 'BCH ', 'OMG ', 'NEO ', 'ETC ']",
+2020-08-26,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'LINK ', 'NEO ', 'ETC ', 'OMG ']",
+2020-08-27,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'LINK ', 'NEO ', 'ETC ', 'TRX ']",
+2020-08-28,"['BTC ', 'ETH ', 'LTC ', 'LINK ', 'EOS ', 'NEO ', 'BCH ', 'XRP ', 'ETC ', 'TRX ']",
+2020-08-29,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'LINK ', 'NEO ', 'XRP ', 'BCH ', 'TRX ', 'ETC ']",
+2020-08-30,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'LINK ', 'XRP ', 'TRX ', 'BCH ', 'NEO ', 'OMG ']",
+2020-08-31,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'TRX ', 'BCH ', 'XRP ', 'LINK ', 'NEO ', 'ETC ']",
+2020-09-01,"['BTC ', 'ETH ', 'TRX ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'LINK ', 'ETC ', 'NEO ']",
+2020-09-02,"['BTC ', 'ETH ', 'TRX ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'LINK ', 'ETC ', 'BNB ']",
+2020-09-03,"['BTC ', 'ETH ', 'TRX ', 'EOS ', 'LTC ', 'BCH ', 'XRP ', 'LINK ', 'ETC ', 'OMG ']",
+2020-09-04,"['BTC ', 'ETH ', 'EOS ', 'TRX ', 'BCH ', 'LTC ', 'XRP ', 'LINK ', 'ETC ', 'NEO ']",
+2020-09-05,"['BTC ', 'ETH ', 'EOS ', 'TRX ', 'BCH ', 'LTC ', 'LINK ', 'XRP ', 'BNB ', 'ETC ']",
+2020-09-06,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'LTC ', 'LINK ', 'XRP ', 'NEO ', 'ETC ']",
+2020-09-07,"['BTC ', 'ETH ', 'TRX ', 'EOS ', 'BCH ', 'LTC ', 'XRP ', 'LINK ', 'ETC ', 'NEO ']",
+2020-09-08,"['BTC ', 'ETH ', 'TRX ', 'EOS ', 'LTC ', 'BCH ', 'LINK ', 'XRP ', 'ETC ', 'NEO ']",
+2020-09-09,"['BTC ', 'ETH ', 'XMR ', 'DASH ', 'ZEC ', 'LINK ', 'TRX ', 'EOS ', 'BCH ', 'LTC ']",
+2020-09-10,"['BTC ', 'ETH ', 'XMR ', 'DASH ', 'ZEC ', 'LINK ', 'TRX ', 'EOS ', 'LTC ', 'BCH ']",
+2020-09-11,"['BTC ', 'DASH ', 'ETH ', 'ZEC ', 'LINK ', 'TRX ', 'EOS ', 'LTC ', 'BCH ', 'NEO ']",
+2020-09-12,"['BTC ', 'XMR ', 'ETH ', 'DASH ', 'ZEC ', 'LINK ', 'TRX ', 'BCH ', 'EOS ', 'LTC ']",
+2020-09-13,"['BTC ', 'ETH ', 'DASH ', 'TRX ', 'BCH ', 'EOS ', 'LTC ', 'LINK ', 'XRP ', 'NEO ']",
+2020-09-14,"['BTC ', 'ETH ', 'BCH ', 'TRX ', 'EOS ', 'LTC ', 'XRP ', 'LINK ', 'NEO ', 'BNB ']",
+2020-09-15,"['BTC ', 'ETH ', 'TRX ', 'BCH ', 'EOS ', 'LTC ', 'XRP ', 'LINK ', 'NEO ', 'ADA ']",
+2020-09-16,"['BTC ', 'ETH ', 'TRX ', 'BCH ', 'EOS ', 'XRP ', 'LTC ', 'LINK ', 'NEO ', 'ADA ']",
+2020-09-17,"['BTC ', 'ETH ', 'TRX ', 'BCH ', 'EOS ', 'XRP ', 'NEO ', 'LTC ', 'LINK ', 'ADA ']",
+2020-09-18,"['BTC ', 'ETH ', 'TRX ', 'BCH ', 'EOS ', 'XRP ', 'LTC ', 'NEO ', 'LINK ', 'ADA ']",
+2020-09-19,"['BTC ', 'ETH ', 'TRX ', 'BCH ', 'EOS ', 'NEO ', 'XRP ', 'LTC ', 'LINK ', 'ADA ']",
+2020-09-20,"['BTC ', 'ETH ', 'TRX ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'LINK ', 'NEO ', 'ETC ']",
+2020-09-21,"['BTC ', 'ETH ', 'TRX ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'LINK ', 'NEO ', 'ETC ']",
+2020-09-22,"['BTC ', 'ETH ', 'TRX ', 'EOS ', 'LINK ', 'LTC ', 'XRP ', 'BCH ', 'NEO ', 'ETC ']",
+2020-09-23,"['BTC ', 'ETH ', 'LINK ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'TRX ', 'NEO ', 'ETC ']",
+2020-09-24,"['BTC ', 'ETH ', 'LINK ', 'TRX ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'NEO ', 'ADA ']",
+2020-09-25,"['BTC ', 'ETH ', 'TRX ', 'LINK ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'NEO ', 'ETC ']",
+2020-09-26,"['BTC ', 'ETH ', 'TRX ', 'EOS ', 'LINK ', 'BCH ', 'LTC ', 'XRP ', 'ETC ', 'WTC ']",
+2020-09-27,"['BTC ', 'ETH ', 'EOS ', 'BCH ', 'TRX ', 'XRP ', 'LINK ', 'LTC ', 'NEO ', 'ADA ']",
+2020-09-28,"['BTC ', 'ETH ', 'LINK ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'TRX ', 'OMG ', 'NEO ']",
+2020-09-29,"['BTC ', 'ETH ', 'EOS ', 'LINK ', 'XRP ', 'LTC ', 'BCH ', 'TRX ', 'XMR ', 'NEO ']",
+2020-09-30,"['BTC ', 'ETH ', 'EOS ', 'LTC ', 'BCH ', 'LINK ', 'XRP ', 'TRX ', 'XMR ', 'WTC ']",
+2020-10-01,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'LINK ', 'BCH ', 'TRX ', 'XMR ', 'ADA ']",
+2020-10-02,"['BTC ', 'ETH ', 'TRX ', 'EOS ', 'LTC ', 'XRP ', 'BCH ', 'LINK ', 'XMR ', 'ETC ']",
+2020-10-03,"['BTC ', 'ETH ', 'XRP ', 'EOS ', 'LTC ', 'TRX ', 'BCH ', 'LINK ', 'XMR ', 'ETC ']",
+2020-10-04,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'LINK ', 'TRX ', 'BCH ', 'XMR ', 'ETC ']",
+2020-10-05,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'TRX ', 'LINK ', 'ADA ', 'XMR ']",
+2020-10-06,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'LTC ', 'BCH ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-10-07,"['BTC ', 'ETH ', 'EOS ', 'XRP ', 'BCH ', 'LTC ', 'LINK ', 'TRX ', 'XMR ', 'ADA ']",
+2020-10-08,"['ADA ', 'ADX ', 'AE ', 'ANT ', 'ARDR ', 'ARK ', 'BAT ', 'BCH ', 'BCN ', 'BNB ']",
+2020-10-09,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'TRX ', 'LINK ', 'ADA ', 'ZEC ']",
+2020-10-10,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'XRP ', 'BCH ', 'LINK ', 'TRX ', 'ZEC ', 'XMR ']",
+2020-10-11,"['ADA ', 'ADX ', 'AE ', 'ANT ', 'ARDR ', 'ARK ', 'BAT ', 'BCH ', 'BCN ', 'BNB ']",
+2020-10-12,"['ADA ', 'ADX ', 'AE ', 'ANT ', 'ARDR ', 'ARK ', 'BAT ', 'BCH ', 'BCN ', 'BNB ']",
+2020-10-13,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'XRP ', 'EOS ', 'LINK ', 'TRX ', 'ZEC ', 'ADA ']",
+2020-10-14,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'LINK ', 'TRX ', 'XMR ', 'ZEC ']",
+2020-10-15,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'LINK ', 'XMR ', 'ZEC ']",
+2020-10-16,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'XMR ', 'TRX ', 'LINK ', 'ETC ']",
+2020-10-17,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'LINK ', 'TRX ', 'ZEC ', 'XMR ']",
+2020-10-18,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'EOS ', 'XRP ', 'TRX ', 'LINK ', 'DASH ', 'XMR ']",
+2020-10-19,"['BTC ', 'ETH ', 'BCH ', 'LTC ', 'TRX ', 'EOS ', 'XRP ', 'LINK ', 'XMR ', 'ADA ']",
+2020-10-20,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'EOS ', 'XMR ', 'LINK ', 'TRX ', 'ADA ']",
+2020-10-21,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'EOS ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-10-22,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'EOS ', 'LINK ', 'ADA ', 'TRX ', 'XMR ']",
+2020-10-23,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'LINK ', 'TRX ', 'XMR ', 'ADA ']",
+2020-10-24,"['BTC ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XRP ', 'LINK ', 'XMR ', 'TRX ', 'ETC ']",
+2020-10-26,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-10-27,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'XRP ', 'EOS ', 'LINK ', 'TRX ', 'XMR ', 'ADA ']",
+2020-10-28,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-10-29,"['BTC ', 'ETH ', 'XEM ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'KNC ', 'LINK ', 'XMR ']",
+2020-10-30,"['BTC ', 'ETH ', 'BCH ', 'EOS ', 'LTC ', 'XRP ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-10-31,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-11-01,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-11-02,"['BTC ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XRP ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-11-03,"['BTC ', 'ETH ', 'XRP ', 'BCH ', 'LTC ', 'EOS ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-11-04,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'ADA ', 'TRX ']",
+2020-11-05,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'TRX ', 'ETC ']",
+2020-11-06,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-11-07,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-11-08,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'LINK ', 'EOS ', 'XMR ', 'TRX ', 'ADA ']",
+2020-11-09,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-11-10,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'LINK ', 'BCH ', 'EOS ', 'XMR ', 'TRX ', 'ADA ']",
+2020-11-11,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'LINK ', 'BCH ', 'ETC ', 'XMR ', 'TRX ']",
+2020-11-12,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'BCH ', 'LINK ', 'XMR ', 'ETC ', 'TRX ']",
+2020-11-13,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-11-14,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'TRX ', 'ADA ']",
+2020-11-15,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'TRX ', 'XMR ', 'NEO ']",
+2020-11-16,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'TRX ', 'ETC ']",
+2020-11-17,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'LINK ', 'ETC ', 'TRX ', 'XMR ']",
+2020-11-18,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'LINK ', 'BCH ', 'ETC ', 'TRX ', 'XMR ']",
+2020-11-19,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'EOS ', 'LINK ', 'BCH ', 'ETC ', 'XMR ', 'TRX ']",
+2020-11-20,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'LINK ', 'ETC ', 'XMR ', 'TRX ']",
+2020-11-21,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'LINK ', 'TRX ', 'ADA ', 'ETC ']",
+2020-11-22,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'ADA ', 'LINK ', 'TRX ', 'XMR ']",
+2020-11-23,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'ADA ', 'LINK ', 'TRX ', 'XMR ']",
+2020-11-24,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XLM ', 'TRX ', 'LINK ', 'ADA ']",
+2020-11-25,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XLM ', 'ETC ', 'TRX ', 'LINK ']",
+2020-11-26,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'LINK ', 'ADA ', 'XLM ', 'TRX ']",
+2020-11-27,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XLM ', 'LINK ', 'ADA ', 'TRX ']",
+2020-11-28,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'XLM ', 'ADA ', 'LINK ', 'TRX ']",
+2020-11-29,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'EOS ', 'BCH ', 'ADA ', 'LINK ', 'DASH ', 'XMR ']",
+2020-11-30,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'ADA ', 'LINK ', 'TRX ', 'ETC ']",
+2020-12-01,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'ADA ', 'LINK ', 'ETC ', 'TRX ']",
+2020-12-02,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'LINK ', 'ADA ', 'XMR ', 'ETC ']",
+2020-12-03,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'ADA ', 'ETC ', 'LINK ', 'XMR ']",
+2020-12-04,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'LINK ', 'ADA ', 'ETC ', 'XMR ']",
+2020-12-05,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'LINK ', 'ETC ', 'ADA ', 'XMR ']",
+2020-12-06,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'LINK ', 'XMR ', 'ADA ', 'ETC ']",
+2020-12-07,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'XMR ', 'LINK ', 'ADA ', 'TRX ']",
+2020-12-08,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'LINK ', 'ADA ', 'XMR ', 'TRX ']",
+2020-12-09,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'ADA ', 'LINK ', 'ETC ', 'XLM ']",
+2020-12-10,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'EOS ', 'BCH ', 'LINK ', 'ADA ', 'XLM ', 'ETC ']",
+2020-12-11,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'ADA ', 'XMR ', 'XLM ']",
+2020-12-12,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'XMR ', 'LINK ', 'TRX ', 'ADA ']",
+2020-12-13,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'XLM ', 'ADA ']",
+2020-12-14,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'ADA ', 'XLM ']",
+2020-12-15,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'XMR ', 'LINK ', 'TRX ', 'ADA ']",
+2020-12-16,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'XLM ', 'ADA ']",
+2020-12-17,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'XLM ', 'XMR ', 'TRX ']",
+2020-12-18,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'ADA ', 'XLM ']",
+2020-12-19,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'ETC ', 'TRX ']",
+2020-12-20,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'XMR ', 'LINK ', 'TRX ', 'ETC ']",
+2020-12-21,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'LINK ', 'ADA ', 'ETC ', 'TRX ']",
+2020-12-22,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'ADA ', 'XMR ', 'TRX ']",
+2020-12-23,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'ADA ', 'XLM ']",
+2020-12-24,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'XLM ', 'ADA ', 'XMR ']",
+2020-12-25,"['BTC ', 'XRP ', 'ETH ', 'LTC ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'ADA ', 'TRX ']",
+2020-12-26,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'LINK ', 'XMR ', 'ADA ', 'TRX ']",
+2020-12-27,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'LINK ', 'ADA ', 'TRX ', 'XMR ']",
+2020-12-28,"['BTC ', 'ETH ', 'LTC ', 'XRP ', 'BCH ', 'EOS ', 'ADA ', 'LINK ', 'XMR ', 'TRX ']",
+2020-12-29,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'ADA ', 'EOS ', 'LINK ', 'XMR ', 'TRX ']",
+2020-12-30,"['BTC ', 'ETH ', 'XRP ', 'LTC ', 'BCH ', 'EOS ', 'ADA ', 'LINK ', 'XMR ', 'TRX ']",
