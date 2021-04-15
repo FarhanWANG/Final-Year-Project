@@ -1,7 +1,6 @@
 Things to do: 
 
 2. Create 2 top10 CC(one with BTC, one without BTC)
-7. Add some other factors like SMB
 
 
 Finished:
@@ -11,6 +10,8 @@ Finished:
 3. Update portfolio weekly
 5. Calculate Alpha of the strategy 
 6. Include Alpha, Beta, Information Ratio, Max drawdown, Calmar ratio, VaR, Omega ratio, Sortino ratio, and Tail ratio for portfolio evaluation
+7. Add some other factors like SMB
+
 
 Deleted:
 
