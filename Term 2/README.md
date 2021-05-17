@@ -1,18 +1,17 @@
-Things to do: 
-
-2. Create 2 top10 CC(one with BTC, one without BTC)
+This readme file shows step-by-step installation procedures and brief operating instructions.
 
 
-Finished:
+Demostration Files: included:
 
-0. Convert raw CC data into csv file (Using yahoo API to fetch CC data each time COSTS MUCH TIME)
-1. Check whether we can find the past marketcap
-3. Update portfolio weekly
-5. Calculate Alpha of the strategy 
-6. Include Alpha, Beta, Information Ratio, Max drawdown, Calmar ratio, VaR, Omega ratio, Sortino ratio, and Tail ratio for portfolio evaluation
-7. Add some other factors like SMB
+1. Four .ipynb files (One for Python package installatin and three for strategy implementation)
+2. Five .csv files and one folder (Cryptocurrency data)
 
 
-Deleted:
+Installation Procedures:
+1. Check the "Install_Packages.ipynb" to install all the required Python packages.
 
-4. Test the accuracy of the expected return calculated from CAPM regression with the actual return
+
+Operating Instructions:
+
+1. Locate the whole "Python Codes" folder under C:\Users\xxx (The project path should be C:\Users\xxx\Python Codes)
+2. Run "Markowitz Optimisation.ipynb", "Fama French 3 Factor.ipynb", "LSTM.ipynb" Seperately to compare three different strategies.
